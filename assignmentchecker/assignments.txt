@@ -1,0 +1,7 @@
+1,ale,yes
+12,Luca,yes to me
+13,Anna,I will make sure to implement a layered architecture solution
+14,John,The program is layered
+15,Betty,I did not understand layered architecture
+16,Vlad,My proposed solution does not include layers
+32,Alex, 231
