@@ -1,0 +1,6 @@
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+69;The Western Roman Empire fell in;476;260;594;476;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard

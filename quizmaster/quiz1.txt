@@ -1,0 +1,364 @@
+1;Which number is the smallest;12;90;37;12;easy
+2;Which number is the largest;30;83;12;83;easy
+3;Which number is the smallest;11;53;25;11;easy
+4;Which number is prime;131;20;28;131;easy
+5;Which number is the largest;46;62;12;62;easy
+6;Which number is the smallest;12;77;40;12;easy
+7;Which number is prime;107;62;46;107;easy
+8;Which number is prime;2;72;28;2;easy
+9;Which number is prime;17;86;86;17;easy
+10;Which number is prime;107;30;26;107;easy
+11;Which number is the largest;28;91;37;91;easy
+12;Which number is the largest;57;71;24;71;easy
+13;Which number is prime;5;24;14;5;easy
+14;Which number is the largest;28;94;35;94;easy
+15;Which number is prime;3;60;74;3;easy
+16;Which number is the smallest;19;85;32;19;easy
+17;Which number is the largest;43;95;28;95;easy
+18;Which number is prime;2;76;22;2;easy
+19;Which number is the largest;21;59;15;59;easy
+20;Which number is the smallest;11;52;25;11;easy
+21;Which number is the smallest;16;31;29;16;easy
+22;Which number is the largest;15;69;22;69;easy
+23;Which number is the smallest;21;45;32;21;easy
+24;Which number is the largest;2;62;39;62;easy
+25;Which number is prime;5;54;58;5;easy
+26;Which number is the smallest;13;89;28;13;easy
+27;Which number is prime;3;50;50;3;easy
+28;Which number is prime;17;68;34;17;easy
+29;Which number is prime;107;26;22;107;easy
+30;Which number is prime;5;70;86;5;easy
+31;Which number is the largest;53;87;30;87;easy
+32;Which number is the smallest;17;67;37;17;easy
+33;Which number is the largest;52;61;37;61;easy
+1;Which number is the smallest;13;70;41;13;easy
+2;Which number is the largest;20;75;33;75;easy
+3;Which number is prime;131;92;86;131;easy
+4;Which number is the largest;16;71;37;71;easy
+5;Which number is the smallest;11;34;33;11;easy
+6;Which number is the smallest;14;80;27;14;easy
+7;Which number is the largest;7;84;27;84;easy
+8;Which number is prime;5;60;50;5;easy
+9;Which number is prime;5;86;14;5;easy
+10;Which number is prime;131;62;34;131;easy
+11;Which number is the largest;50;63;13;63;easy
+12;Which number is the largest;36;83;11;83;easy
+13;Which number is prime;11;4;96;11;easy
+14;Which number is the largest;30;74;15;74;easy
+15;Which number is prime;17;54;92;17;easy
+16;Which number is prime;5;92;18;5;easy
+17;Which number is the smallest;10;86;42;10;easy
+18;Which number is the largest;56;67;41;67;easy
+19;Which number is prime;107;48;74;107;easy
+20;Which number is the largest;51;88;13;88;easy
+21;Which number is the smallest;18;39;34;18;easy
+22;Which number is the largest;24;64;35;64;easy
+23;Which number is prime;5;46;16;5;easy
+24;Which number is the smallest;21;58;31;21;easy
+25;Which number is the smallest;17;39;43;17;easy
+26;Which number is the smallest;22;77;34;22;easy
+27;Which number is prime;5;40;58;5;easy
+28;Which number is prime;5;70;6;5;easy
+29;Which number is the smallest;17;57;42;17;easy
+30;Which number is the smallest;16;48;33;16;easy
+31;Which number is the smallest;17;50;42;17;easy
+32;Which number is the smallest;18;35;39;18;easy
+33;Which number is the largest;14;91;34;91;easy
+1;Which number is the smallest;16;61;41;16;easy
+2;Which number is the smallest;17;38;40;17;easy
+3;Which number is the smallest;16;37;31;16;easy
+4;Which number is prime;107;16;42;107;easy
+5;Which number is the largest;49;76;36;76;easy
+6;Which number is the largest;18;60;22;60;easy
+7;Which number is the largest;33;94;26;94;easy
+8;Which number is the largest;29;79;42;79;easy
+9;Which number is the smallest;15;67;27;15;easy
+10;Which number is the smallest;20;89;40;20;easy
+11;Which number is the largest;52;60;42;60;easy
+12;Which number is prime;17;94;86;17;easy
+13;Which number is prime;17;12;90;17;easy
+14;Which number is the smallest;14;34;30;14;easy
+15;Which number is the smallest;11;97;31;11;easy
+16;Which number is prime;2;22;92;2;easy
+17;Which number is the largest;7;73;34;73;easy
+18;Which number is prime;107;56;74;107;easy
+19;Which number is prime;11;72;4;11;easy
+20;Which number is the smallest;23;92;41;23;easy
+21;Which number is the smallest;12;56;29;12;easy
+22;Which number is the smallest;16;57;43;16;easy
+23;Which number is the smallest;19;86;31;19;easy
+24;Which number is the largest;50;63;19;63;easy
+25;Which number is prime;17;8;64;17;easy
+26;Which number is the largest;1;71;43;71;easy
+27;Which number is prime;17;42;24;17;easy
+28;Which number is the largest;55;75;27;75;easy
+29;Which number is the smallest;23;94;39;23;easy
+30;Which number is prime;2;18;16;2;easy
+31;Which number is the smallest;13;77;27;13;easy
+32;Which number is prime;3;52;98;3;easy
+33;Which number is prime;131;90;72;131;easy
+1;Which number is the largest;43;60;12;60;easy
+2;Which number is the smallest;20;87;41;20;easy
+3;Which number is the smallest;15;74;36;15;easy
+4;Which number is prime;17;46;26;17;easy
+5;Which number is the smallest;15;78;30;15;easy
+6;Which number is the smallest;14;84;33;14;easy
+7;Which number is the largest;27;59;10;59;easy
+8;Which number is prime;11;86;50;11;easy
+9;Which number is the largest;40;70;43;70;easy
+10;Which number is the largest;35;68;41;68;easy
+11;Which number is prime;11;98;48;11;easy
+12;Which number is the largest;2;81;33;81;easy
+13;Which number is the largest;19;65;24;65;easy
+14;Which number is prime;11;68;20;11;easy
+15;Which number is prime;3;58;14;3;easy
+16;Which number is the smallest;16;47;32;16;easy
+17;Which number is the largest;38;87;33;87;easy
+18;Which number is the smallest;13;79;42;13;easy
+19;Which number is the smallest;22;77;33;22;easy
+20;Which number is prime;131;62;28;131;easy
+21;Which number is the smallest;17;36;30;17;easy
+22;Which number is the largest;28;80;25;80;easy
+23;Which number is the largest;29;84;13;84;easy
+24;Which number is the largest;34;90;35;90;easy
+25;Which number is prime;131;68;16;131;easy
+26;Which number is the smallest;17;33;26;17;easy
+27;Which number is the largest;14;68;24;68;easy
+28;Which number is the smallest;20;81;31;20;easy
+29;Which number is prime;131;68;44;131;easy
+30;Which number is the smallest;15;57;38;15;easy
+31;Which number is the largest;18;97;20;97;easy
+32;Which number is the smallest;18;75;27;18;easy
+33;Which number is the smallest;11;92;34;11;easy
+1;asdasd;1;2;3;2;easy
+1;Which number is the largest;35;81;38;81;easy
+2;Which number is prime;131;64;50;131;easy
+3;Which number is prime;3;52;84;3;easy
+4;Which number is the smallest;21;78;28;21;easy
+5;Which number is the largest;39;58;41;58;easy
+6;Which number is the smallest;10;37;43;10;easy
+7;Which number is the smallest;13;50;32;13;easy
+8;Which number is the largest;17;81;29;81;easy
+9;Which number is prime;17;68;76;17;easy
+10;Which number is the smallest;19;80;33;19;easy
+11;Which number is the largest;39;68;43;68;easy
+12;Which number is prime;17;16;74;17;easy
+13;Which number is prime;17;64;30;17;easy
+14;Which number is prime;3;66;64;3;easy
+15;Which number is prime;3;70;20;3;easy
+16;Which number is the largest;10;96;21;96;easy
+17;Which number is the largest;5;62;25;62;easy
+18;Which number is the smallest;18;58;34;18;easy
+19;Which number is the smallest;17;71;28;17;easy
+20;Which number is prime;11;74;66;11;easy
+21;Which number is the largest;46;88;25;88;easy
+22;Which number is the largest;3;69;14;69;easy
+23;Which number is the largest;55;59;16;59;easy
+24;Which number is prime;131;60;76;131;easy
+25;Which number is prime;107;18;88;107;easy
+26;Which number is the largest;32;83;36;83;easy
+27;Which number is the smallest;19;66;27;19;easy
+28;Which number is prime;131;88;58;131;easy
+29;Which number is the largest;53;63;39;63;easy
+30;Which number is the smallest;16;90;32;16;easy
+31;Which number is the largest;38;91;27;91;easy
+32;Which number is the largest;8;76;34;76;easy
+33;Which number is prime;17;16;84;17;easy
+1;Which number is prime;2;66;94;2;easy
+2;Which number is prime;131;30;98;131;easy
+3;Which number is prime;5;22;38;5;easy
+4;Which number is the largest;56;88;10;88;easy
+5;Which number is prime;107;66;76;107;easy
+6;Which number is prime;11;14;28;11;easy
+7;Which number is prime;131;46;38;131;easy
+8;Which number is the smallest;23;96;37;23;easy
+9;Which number is prime;131;40;74;131;easy
+10;Which number is the smallest;11;54;34;11;easy
+11;Which number is the smallest;16;93;28;16;easy
+12;Which number is the smallest;11;42;31;11;easy
+13;Which number is the largest;44;67;20;67;easy
+14;Which number is prime;131;90;90;131;easy
+15;Which number is the largest;22;60;39;60;easy
+16;Which number is prime;3;48;54;3;easy
+17;Which number is the smallest;18;86;38;18;easy
+18;Which number is the smallest;17;87;25;17;easy
+19;Which number is the largest;19;89;20;89;easy
+20;Which number is the largest;40;59;17;59;easy
+21;Which number is the largest;7;78;37;78;easy
+22;Which number is the smallest;16;36;25;16;easy
+23;Which number is prime;107;54;64;107;easy
+24;Which number is prime;5;46;20;5;easy
+25;Which number is the largest;43;64;10;64;easy
+26;Which number is the smallest;15;85;27;15;easy
+27;Which number is the largest;11;60;17;60;easy
+28;Which number is the smallest;13;44;31;13;easy
+29;Which number is prime;131;40;88;131;easy
+30;Which number is prime;2;48;10;2;easy
+31;Which number is the largest;41;83;25;83;easy
+32;Which number is the smallest;17;86;29;17;easy
+33;Which number is the smallest;14;67;37;14;easy
+1;Which number is the smallest;12;94;30;12;easy
+2;Which number is the smallest;19;64;34;19;easy
+3;Which number is prime;131;76;90;131;easy
+4;Which number is the smallest;11;67;40;11;easy
+5;Which number is prime;5;50;6;5;easy
+6;Which number is prime;2;6;36;2;easy
+7;Which number is the smallest;18;52;34;18;easy
+8;Which number is the largest;13;94;15;94;easy
+9;Which number is prime;17;68;18;17;easy
+10;Which number is the smallest;18;97;34;18;easy
+11;Which number is the smallest;16;90;39;16;easy
+12;Which number is prime;11;62;74;11;easy
+13;Which number is prime;5;32;28;5;easy
+14;Which number is prime;3;92;22;3;easy
+15;Which number is prime;5;48;90;5;easy
+16;Which number is the largest;57;92;31;92;easy
+17;Which number is the largest;43;62;41;62;easy
+18;Which number is prime;11;20;90;11;easy
+19;Which number is prime;131;94;30;131;easy
+20;Which number is prime;2;92;96;2;easy
+21;Which number is prime;5;8;12;5;easy
+22;Which number is prime;5;48;52;5;easy
+23;Which number is prime;17;76;82;17;easy
+24;Which number is the smallest;20;66;34;20;easy
+25;Which number is the smallest;10;58;28;10;easy
+26;Which number is the smallest;11;87;33;11;easy
+27;Which number is prime;17;98;68;17;easy
+28;Which number is the largest;57;98;18;98;easy
+29;Which number is the smallest;21;41;35;21;easy
+30;Which number is the largest;33;67;10;67;easy
+31;Which number is the largest;13;79;34;79;easy
+32;Which number is the smallest;12;41;25;12;easy
+33;Which number is the smallest;22;92;25;22;easy
+1;Which number is the largest;55;68;17;68;easy
+2;Which number is prime;17;52;32;17;easy
+3;Which number is prime;17;62;36;17;easy
+4;Which number is the largest;21;98;21;98;easy
+5;Which number is the smallest;15;69;27;15;easy
+6;Which number is the smallest;17;32;39;17;easy
+7;Which number is the largest;27;82;15;82;easy
+8;Which number is the largest;7;66;37;66;easy
+9;Which number is the smallest;23;69;41;23;easy
+10;Which number is the largest;33;79;32;79;easy
+11;Which number is prime;11;14;86;11;easy
+12;Which number is the smallest;20;52;30;20;easy
+13;Which number is prime;5;46;78;5;easy
+14;Which number is the smallest;12;69;29;12;easy
+15;Which number is prime;5;32;16;5;easy
+16;Which number is prime;131;94;8;131;easy
+17;Which number is the smallest;20;59;29;20;easy
+18;Which number is the smallest;17;84;40;17;easy
+19;Which number is the smallest;10;65;25;10;easy
+20;Which number is the smallest;23;63;34;23;easy
+21;Which number is the largest;25;97;21;97;easy
+22;Which number is prime;11;64;74;11;easy
+23;Which number is the largest;44;67;19;67;easy
+24;Which number is the smallest;15;36;25;15;easy
+25;Which number is the smallest;21;34;39;21;easy
+26;Which number is the largest;7;90;38;90;easy
+27;Which number is prime;131;60;38;131;easy
+28;Which number is prime;11;12;36;11;easy
+29;Which number is prime;5;36;24;5;easy
+30;Which number is the largest;30;60;32;60;easy
+31;Which number is the smallest;19;95;34;19;easy
+32;Which number is the smallest;11;54;30;11;easy
+33;Which number is the smallest;22;40;33;22;easy
+1;Which number is the largest;49;83;10;83;easy
+2;Which number is the smallest;16;80;36;16;easy
+3;Which number is prime;3;82;92;3;easy
+4;Which number is the smallest;18;51;29;18;easy
+5;Which number is the largest;38;64;35;64;easy
+6;Which number is the largest;52;67;28;67;easy
+7;Which number is the largest;29;93;29;93;easy
+8;Which number is the largest;52;77;40;77;easy
+9;Which number is the smallest;23;54;36;23;easy
+10;Which number is prime;107;48;80;107;easy
+11;Which number is prime;17;86;16;17;easy
+12;Which number is the largest;13;63;33;63;easy
+13;Which number is the largest;45;80;31;80;easy
+14;Which number is the largest;35;97;43;97;easy
+15;Which number is the smallest;11;38;32;11;easy
+16;Which number is prime;11;56;26;11;easy
+17;Which number is the largest;22;97;16;97;easy
+18;Which number is the smallest;16;90;25;16;easy
+19;Which number is prime;131;24;84;131;easy
+20;Which number is prime;107;88;94;107;easy
+21;Which number is the largest;53;81;36;81;easy
+22;Which number is the smallest;12;38;42;12;easy
+23;Which number is the smallest;20;49;42;20;easy
+24;Which number is the largest;37;85;41;85;easy
+25;Which number is prime;5;54;62;5;easy
+26;Which number is the smallest;22;81;30;22;easy
+27;Which number is the largest;7;65;17;65;easy
+28;Which number is the largest;42;94;13;94;easy
+29;Which number is the largest;44;79;10;79;easy
+30;Which number is the largest;24;81;36;81;easy
+31;Which number is the smallest;18;46;30;18;easy
+32;Which number is the largest;19;61;34;61;easy
+33;Which number is prime;3;78;30;3;easy
+1;Which number is prime;11;64;8;11;easy
+2;Which number is the largest;38;77;32;77;easy
+3;Which number is prime;3;96;68;3;easy
+4;Which number is prime;5;14;70;5;easy
+5;Which number is the largest;3;97;19;97;easy
+6;Which number is the largest;50;88;35;88;easy
+7;Which number is the smallest;21;74;32;21;easy
+8;Which number is the largest;20;78;18;78;easy
+9;Which number is the largest;8;89;10;89;easy
+10;Which number is the largest;16;62;22;62;easy
+11;Which number is prime;131;94;88;131;easy
+12;Which number is the largest;46;81;19;81;easy
+13;Which number is the largest;51;68;30;68;easy
+14;Which number is prime;131;74;44;131;easy
+15;Which number is the largest;9;74;22;74;easy
+16;Which number is the largest;6;76;38;76;easy
+17;Which number is the largest;7;59;10;59;easy
+18;Which number is the smallest;21;95;27;21;easy
+19;Which number is prime;131;92;80;131;easy
+20;Which number is the largest;35;70;19;70;easy
+21;Which number is prime;107;96;82;107;easy
+22;Which number is the smallest;17;60;41;17;easy
+23;Which number is the smallest;10;87;43;10;easy
+24;Which number is prime;17;50;64;17;easy
+25;Which number is the smallest;10;46;37;10;easy
+26;Which number is prime;11;88;12;11;easy
+27;Which number is the largest;8;95;31;95;easy
+28;Which number is prime;107;98;44;107;easy
+29;Which number is the smallest;12;40;39;12;easy
+30;Which number is prime;3;56;74;3;easy
+31;Which number is prime;11;90;78;11;easy
+32;Which number is the largest;4;94;16;94;easy
+33;Which number is the smallest;21;55;43;21;easy
+1;Which number is the largest;38;88;43;88;easy
+2;Which number is the largest;31;96;19;96;easy
+3;Which number is the smallest;16;80;25;16;easy
+4;Which number is prime;5;30;26;5;easy
+5;Which number is prime;2;90;92;2;easy
+6;Which number is the largest;25;89;29;89;easy
+7;Which number is the largest;24;69;20;69;easy
+8;Which number is prime;3;38;38;3;easy
+9;Which number is prime;131;10;8;131;easy
+10;Which number is the largest;18;66;30;66;easy
+11;Which number is the largest;29;79;39;79;easy
+12;Which number is the largest;25;92;11;92;easy
+13;Which number is the smallest;15;45;28;15;easy
+14;Which number is prime;2;56;18;2;easy
+15;Which number is the largest;16;80;42;80;easy
+16;Which number is the smallest;15;36;31;15;easy
+17;Which number is prime;17;86;18;17;easy
+18;Which number is the largest;25;91;37;91;easy
+19;Which number is the smallest;10;82;39;10;easy
+20;Which number is the largest;49;89;36;89;easy
+21;Which number is the largest;37;77;23;77;easy
+22;Which number is the smallest;18;39;32;18;easy
+23;Which number is the smallest;18;85;36;18;easy
+24;Which number is the largest;2;58;27;58;easy
+25;Which number is prime;3;88;38;3;easy
+26;Which number is the largest;22;85;28;85;easy
+27;Which number is the largest;51;81;23;81;easy
+28;Which number is the smallest;18;79;25;18;easy
+29;Which number is the smallest;10;65;39;10;easy
+30;Which number is the smallest;12;49;31;12;easy
+31;Which number is the largest;9;79;15;79;easy
+32;Which number is the smallest;10;46;26;10;easy
+33;Which number is prime;11;28;68;11;easy

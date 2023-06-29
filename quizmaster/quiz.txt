@@ -1,0 +1,3001 @@
+1;Which number is the smallest;12;90;37;12;easy
+2;Which number is the largest;30;83;12;83;easy
+3;Which number is the smallest;11;53;25;11;easy
+4;Which number is prime;131;20;28;131;easy
+5;Which number is the largest;46;62;12;62;easy
+6;Which number is the smallest;12;77;40;12;easy
+7;Which number is prime;107;62;46;107;easy
+8;Which number is prime;2;72;28;2;easy
+9;Which number is prime;17;86;86;17;easy
+10;Which number is prime;107;30;26;107;easy
+11;Which number is the largest;28;91;37;91;easy
+12;Which number is the largest;57;71;24;71;easy
+13;Which number is prime;5;24;14;5;easy
+14;Which number is the largest;28;94;35;94;easy
+15;Which number is prime;3;60;74;3;easy
+16;Which number is the smallest;19;85;32;19;easy
+17;Which number is the largest;43;95;28;95;easy
+18;Which number is prime;2;76;22;2;easy
+19;Which number is the largest;21;59;15;59;easy
+20;Which number is the smallest;11;52;25;11;easy
+21;Which number is the smallest;16;31;29;16;easy
+22;Which number is the largest;15;69;22;69;easy
+23;Which number is the smallest;21;45;32;21;easy
+24;Which number is the largest;2;62;39;62;easy
+25;Which number is prime;5;54;58;5;easy
+26;Which number is the smallest;13;89;28;13;easy
+27;Which number is prime;3;50;50;3;easy
+28;Which number is prime;17;68;34;17;easy
+29;Which number is prime;107;26;22;107;easy
+30;Which number is prime;5;70;86;5;easy
+31;Which number is the largest;53;87;30;87;easy
+32;Which number is the smallest;17;67;37;17;easy
+33;Which number is the largest;52;61;37;61;easy
+34;Which is not a fish;Eel;Shark;Fog;Eel;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is the largest country;Portugal;England;Russia;Russia;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is not a fish;Crap;Shark;Lion;Crap;medium
+40;Which is the largest country;Argentina;Spain;Russia;Russia;medium
+41;Which is not a fish;Eel;Shark;Dog;Eel;medium
+42;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+43;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+44;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+45;Which is the largest country;Argentina;Spain;Russia;Russia;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Which is not a fish;Crap;Orca;Lion;Crap;medium
+50;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+51;Which is not a fish;Eel;Shark;Dog;Eel;medium
+52;Which is the largest country;India;South Korea;Russia;Russia;medium
+53;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+54;Which is the largest country;France;Spain;Russia;Russia;medium
+55;Which is not a fish;Crap;Orca;Lion;Crap;medium
+56;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+57;Which is the largest country;Portugal;England;Russia;Russia;medium
+58;Which is not a fish;Crap;Shark;Fog;Crap;medium
+59;Which is not a fish;Crap;Orca;Dog;Crap;medium
+60;Which is the largest country;Canada;China;Russia;Russia;medium
+61;Which is the largest country;France;South Korea;Russia;Russia;medium
+62;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+63;Which is not a fish;Eel;Orca;Lion;Eel;medium
+64;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+65;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+66;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+69;The Western Roman Empire fell in;476;260;594;476;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+73;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+76;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;The Western Roman Empire fell in;476;202;781;476;hard
+80;The Western Roman Empire fell in;476;297;545;476;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;The Western Roman Empire fell in;476;280;632;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+87;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+88;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;The Western Roman Empire fell in;476;315;530;476;hard
+94;The Western Roman Empire fell in;476;221;662;476;hard
+95;The Western Roman Empire fell in;476;264;612;476;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;The Western Roman Empire fell in;476;239;542;476;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;The Western Roman Empire fell in;476;326;679;476;hard
+100;The Western Roman Empire fell in;476;234;677;476;hard
+1;Which number is the smallest;13;70;41;13;easy
+2;Which number is the largest;20;75;33;75;easy
+3;Which number is prime;131;92;86;131;easy
+4;Which number is the largest;16;71;37;71;easy
+5;Which number is the smallest;11;34;33;11;easy
+6;Which number is the smallest;14;80;27;14;easy
+7;Which number is the largest;7;84;27;84;easy
+8;Which number is prime;5;60;50;5;easy
+9;Which number is prime;5;86;14;5;easy
+10;Which number is prime;131;62;34;131;easy
+11;Which number is the largest;50;63;13;63;easy
+12;Which number is the largest;36;83;11;83;easy
+13;Which number is prime;11;4;96;11;easy
+14;Which number is the largest;30;74;15;74;easy
+15;Which number is prime;17;54;92;17;easy
+16;Which number is prime;5;92;18;5;easy
+17;Which number is the smallest;10;86;42;10;easy
+18;Which number is the largest;56;67;41;67;easy
+19;Which number is prime;107;48;74;107;easy
+20;Which number is the largest;51;88;13;88;easy
+21;Which number is the smallest;18;39;34;18;easy
+22;Which number is the largest;24;64;35;64;easy
+23;Which number is prime;5;46;16;5;easy
+24;Which number is the smallest;21;58;31;21;easy
+25;Which number is the smallest;17;39;43;17;easy
+26;Which number is the smallest;22;77;34;22;easy
+27;Which number is prime;5;40;58;5;easy
+28;Which number is prime;5;70;6;5;easy
+29;Which number is the smallest;17;57;42;17;easy
+30;Which number is the smallest;16;48;33;16;easy
+31;Which number is the smallest;17;50;42;17;easy
+32;Which number is the smallest;18;35;39;18;easy
+33;Which number is the largest;14;91;34;91;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+36;Which is the largest country;France;England;Russia;Russia;medium
+37;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is the largest country;Canada;Germany;Russia;Russia;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+42;Which is not a fish;Crap;Shark;Lion;Crap;medium
+43;Which is not a fish;Crap;Shark;Lion;Crap;medium
+44;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+45;Which is not a fish;Eel;Shark;Lion;Eel;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+48;Which is not a fish;Crap;Shark;Fog;Crap;medium
+49;Which is the largest country;Belgium;Spain;Russia;Russia;medium
+50;Which is the largest country;France;England;Russia;Russia;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Which is the largest country;India;Germany;Russia;Russia;medium
+53;Which is the largest country;India;Germany;Russia;Russia;medium
+54;Which is not a fish;Eel;Orca;Dog;Eel;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Which is the largest country;Canada;Romania;Russia;Russia;medium
+57;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+58;Which is not a fish;Eel;Shark;Dog;Eel;medium
+59;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+60;Which is not a fish;Crap;Shark;Lion;Crap;medium
+61;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+62;Which is not a fish;Eel;Shark;Fog;Eel;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+65;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+66;Which is the largest country;France;Spain;Russia;Russia;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;The Western Roman Empire fell in;476;205;709;476;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;The Western Roman Empire fell in;476;253;549;476;hard
+72;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+73;The Western Roman Empire fell in;476;218;753;476;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;The Western Roman Empire fell in;476;241;550;476;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+85;The Western Roman Empire fell in;476;240;657;476;hard
+86;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+92;The Western Roman Empire fell in;476;206;569;476;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+96;The Western Roman Empire fell in;476;248;660;476;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+100;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+1;Which number is the smallest;16;61;41;16;easy
+2;Which number is the smallest;17;38;40;17;easy
+3;Which number is the smallest;16;37;31;16;easy
+4;Which number is prime;107;16;42;107;easy
+5;Which number is the largest;49;76;36;76;easy
+6;Which number is the largest;18;60;22;60;easy
+7;Which number is the largest;33;94;26;94;easy
+8;Which number is the largest;29;79;42;79;easy
+9;Which number is the smallest;15;67;27;15;easy
+10;Which number is the smallest;20;89;40;20;easy
+11;Which number is the largest;52;60;42;60;easy
+12;Which number is prime;17;94;86;17;easy
+13;Which number is prime;17;12;90;17;easy
+14;Which number is the smallest;14;34;30;14;easy
+15;Which number is the smallest;11;97;31;11;easy
+16;Which number is prime;2;22;92;2;easy
+17;Which number is the largest;7;73;34;73;easy
+18;Which number is prime;107;56;74;107;easy
+19;Which number is prime;11;72;4;11;easy
+20;Which number is the smallest;23;92;41;23;easy
+21;Which number is the smallest;12;56;29;12;easy
+22;Which number is the smallest;16;57;43;16;easy
+23;Which number is the smallest;19;86;31;19;easy
+24;Which number is the largest;50;63;19;63;easy
+25;Which number is prime;17;8;64;17;easy
+26;Which number is the largest;1;71;43;71;easy
+27;Which number is prime;17;42;24;17;easy
+28;Which number is the largest;55;75;27;75;easy
+29;Which number is the smallest;23;94;39;23;easy
+30;Which number is prime;2;18;16;2;easy
+31;Which number is the smallest;13;77;27;13;easy
+32;Which number is prime;3;52;98;3;easy
+33;Which number is prime;131;90;72;131;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+37;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+38;Which is not a fish;Crap;Shark;Fog;Crap;medium
+39;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+40;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+41;Which is not a fish;Crap;Shark;Dog;Crap;medium
+42;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+43;Which is not a fish;Crap;Orca;Dog;Crap;medium
+44;Which is not a fish;Eel;Shark;Fog;Eel;medium
+45;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+46;Which is the largest country;Argentina;England;Russia;Russia;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+51;Which is not a fish;Crap;Shark;Fog;Crap;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+54;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+55;Which is not a fish;Crap;Orca;Dog;Crap;medium
+56;Which is the largest country;Belgium;Germany;Russia;Russia;medium
+57;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+58;Which is the largest country;France;South Korea;Russia;Russia;medium
+59;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+62;Which is not a fish;Eel;Orca;Lion;Eel;medium
+63;Which is not a fish;Crap;Orca;Lion;Crap;medium
+64;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+65;Which is not a fish;Crap;Orca;Lion;Crap;medium
+66;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+67;The Western Roman Empire fell in;476;243;796;476;hard
+68;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+69;The Western Roman Empire fell in;476;250;529;476;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;The Western Roman Empire fell in;476;251;772;476;hard
+72;The Western Roman Empire fell in;476;278;594;476;hard
+73;The Western Roman Empire fell in;476;268;788;476;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+76;The Western Roman Empire fell in;476;315;744;476;hard
+77;The Western Roman Empire fell in;476;250;655;476;hard
+78;The Western Roman Empire fell in;476;328;710;476;hard
+79;The Western Roman Empire fell in;476;296;643;476;hard
+80;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+81;The Western Roman Empire fell in;476;227;593;476;hard
+82;The Western Roman Empire fell in;476;208;709;476;hard
+83;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+84;The Western Roman Empire fell in;476;303;536;476;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;The Western Roman Empire fell in;476;258;599;476;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;268;637;476;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;The Western Roman Empire fell in;476;216;504;476;hard
+1;Which number is the largest;43;60;12;60;easy
+2;Which number is the smallest;20;87;41;20;easy
+3;Which number is the smallest;15;74;36;15;easy
+4;Which number is prime;17;46;26;17;easy
+5;Which number is the smallest;15;78;30;15;easy
+6;Which number is the smallest;14;84;33;14;easy
+7;Which number is the largest;27;59;10;59;easy
+8;Which number is prime;11;86;50;11;easy
+9;Which number is the largest;40;70;43;70;easy
+10;Which number is the largest;35;68;41;68;easy
+11;Which number is prime;11;98;48;11;easy
+12;Which number is the largest;2;81;33;81;easy
+13;Which number is the largest;19;65;24;65;easy
+14;Which number is prime;11;68;20;11;easy
+15;Which number is prime;3;58;14;3;easy
+16;Which number is the smallest;16;47;32;16;easy
+17;Which number is the largest;38;87;33;87;easy
+18;Which number is the smallest;13;79;42;13;easy
+19;Which number is the smallest;22;77;33;22;easy
+20;Which number is prime;131;62;28;131;easy
+21;Which number is the smallest;17;36;30;17;easy
+22;Which number is the largest;28;80;25;80;easy
+23;Which number is the largest;29;84;13;84;easy
+24;Which number is the largest;34;90;35;90;easy
+25;Which number is prime;131;68;16;131;easy
+26;Which number is the smallest;17;33;26;17;easy
+27;Which number is the largest;14;68;24;68;easy
+28;Which number is the smallest;20;81;31;20;easy
+29;Which number is prime;131;68;44;131;easy
+30;Which number is the smallest;15;57;38;15;easy
+31;Which number is the largest;18;97;20;97;easy
+32;Which number is the smallest;18;75;27;18;easy
+33;Which number is the smallest;11;92;34;11;easy
+34;Which is not a fish;Eel;Shark;Dog;Eel;medium
+35;Which is the largest country;Belgium;England;Russia;Russia;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is the largest country;France;South Korea;Russia;Russia;medium
+38;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+39;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Which is the largest country;Canada;Germany;Russia;Russia;medium
+42;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+43;Which is the largest country;France;South Korea;Russia;Russia;medium
+44;Which is the largest country;Canada;China;Russia;Russia;medium
+45;Which is not a fish;Crap;Orca;Fog;Crap;medium
+46;Which is not a fish;Eel;Orca;Fog;Eel;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is the largest country;India;Romania;Russia;Russia;medium
+49;Which is not a fish;Eel;Shark;Dog;Eel;medium
+50;Which is the largest country;France;South Korea;Russia;Russia;medium
+51;Which is not a fish;Eel;Orca;Fog;Eel;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+54;Which is not a fish;Crap;Shark;Lion;Crap;medium
+55;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+56;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+57;Which is not a fish;Eel;Shark;Dog;Eel;medium
+58;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+59;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+60;Which is not a fish;Crap;Orca;Lion;Crap;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is not a fish;Eel;Shark;Fog;Eel;medium
+65;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+66;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;The Western Roman Empire fell in;476;306;612;476;hard
+69;The Western Roman Empire fell in;476;233;712;476;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;The Western Roman Empire fell in;476;207;733;476;hard
+72;The Western Roman Empire fell in;476;206;655;476;hard
+73;The Western Roman Empire fell in;476;239;618;476;hard
+74;The Western Roman Empire fell in;476;341;661;476;hard
+75;The Western Roman Empire fell in;476;298;678;476;hard
+76;The Western Roman Empire fell in;476;271;714;476;hard
+77;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+78;The Western Roman Empire fell in;476;280;751;476;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+82;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+83;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+87;The Western Roman Empire fell in;476;279;679;476;hard
+88;The Western Roman Empire fell in;476;311;573;476;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;270;670;476;hard
+92;The Western Roman Empire fell in;476;213;781;476;hard
+93;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+94;The Western Roman Empire fell in;476;266;645;476;hard
+95;The Western Roman Empire fell in;476;223;706;476;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+1;asdasd;1;2;3;2;easy
+1;Which number is the largest;35;81;38;81;easy
+2;Which number is prime;131;64;50;131;easy
+3;Which number is prime;3;52;84;3;easy
+4;Which number is the smallest;21;78;28;21;easy
+5;Which number is the largest;39;58;41;58;easy
+6;Which number is the smallest;10;37;43;10;easy
+7;Which number is the smallest;13;50;32;13;easy
+8;Which number is the largest;17;81;29;81;easy
+9;Which number is prime;17;68;76;17;easy
+10;Which number is the smallest;19;80;33;19;easy
+11;Which number is the largest;39;68;43;68;easy
+12;Which number is prime;17;16;74;17;easy
+13;Which number is prime;17;64;30;17;easy
+14;Which number is prime;3;66;64;3;easy
+15;Which number is prime;3;70;20;3;easy
+16;Which number is the largest;10;96;21;96;easy
+17;Which number is the largest;5;62;25;62;easy
+18;Which number is the smallest;18;58;34;18;easy
+19;Which number is the smallest;17;71;28;17;easy
+20;Which number is prime;11;74;66;11;easy
+21;Which number is the largest;46;88;25;88;easy
+22;Which number is the largest;3;69;14;69;easy
+23;Which number is the largest;55;59;16;59;easy
+24;Which number is prime;131;60;76;131;easy
+25;Which number is prime;107;18;88;107;easy
+26;Which number is the largest;32;83;36;83;easy
+27;Which number is the smallest;19;66;27;19;easy
+28;Which number is prime;131;88;58;131;easy
+29;Which number is the largest;53;63;39;63;easy
+30;Which number is the smallest;16;90;32;16;easy
+31;Which number is the largest;38;91;27;91;easy
+32;Which number is the largest;8;76;34;76;easy
+33;Which number is prime;17;16;84;17;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+36;Which is not a fish;Eel;Orca;Fog;Eel;medium
+37;Which is not a fish;Eel;Orca;Lion;Eel;medium
+38;Which is not a fish;Eel;Orca;Lion;Eel;medium
+39;Which is not a fish;Crap;Orca;Dog;Crap;medium
+40;Which is not a fish;Crap;Shark;Lion;Crap;medium
+41;Which is the largest country;Canada;England;Russia;Russia;medium
+42;Which is not a fish;Eel;Shark;Dog;Eel;medium
+43;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+44;Which is the largest country;Argentina;Germany;Russia;Russia;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Which is not a fish;Crap;Orca;Lion;Crap;medium
+50;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+51;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+52;Which is not a fish;Eel;Orca;Dog;Eel;medium
+53;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+54;Which is the largest country;India;England;Russia;Russia;medium
+55;Which is not a fish;Eel;Shark;Lion;Eel;medium
+56;Which is not a fish;Eel;Orca;Lion;Eel;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+59;Which is not a fish;Crap;Shark;Dog;Crap;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Which is the largest country;India;South Korea;Russia;Russia;medium
+62;Which is not a fish;Eel;Orca;Lion;Eel;medium
+63;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+64;Which is the largest country;Belgium;England;Russia;Russia;medium
+65;Which is the largest country;Canada;Germany;Russia;Russia;medium
+66;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+69;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+70;The Western Roman Empire fell in;476;238;789;476;hard
+71;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;The Western Roman Empire fell in;476;319;719;476;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+76;The Western Roman Empire fell in;476;219;573;476;hard
+77;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+78;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+79;The Western Roman Empire fell in;476;249;676;476;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;The Western Roman Empire fell in;476;217;685;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;The Western Roman Empire fell in;476;294;783;476;hard
+85;The Western Roman Empire fell in;476;269;768;476;hard
+86;The Western Roman Empire fell in;476;233;731;476;hard
+87;The Western Roman Empire fell in;476;333;559;476;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+92;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+93;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+96;The Western Roman Empire fell in;476;210;714;476;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;The Western Roman Empire fell in;476;260;799;476;hard
+100;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+1;Which number is prime;2;66;94;2;easy
+2;Which number is prime;131;30;98;131;easy
+3;Which number is prime;5;22;38;5;easy
+4;Which number is the largest;56;88;10;88;easy
+5;Which number is prime;107;66;76;107;easy
+6;Which number is prime;11;14;28;11;easy
+7;Which number is prime;131;46;38;131;easy
+8;Which number is the smallest;23;96;37;23;easy
+9;Which number is prime;131;40;74;131;easy
+10;Which number is the smallest;11;54;34;11;easy
+11;Which number is the smallest;16;93;28;16;easy
+12;Which number is the smallest;11;42;31;11;easy
+13;Which number is the largest;44;67;20;67;easy
+14;Which number is prime;131;90;90;131;easy
+15;Which number is the largest;22;60;39;60;easy
+16;Which number is prime;3;48;54;3;easy
+17;Which number is the smallest;18;86;38;18;easy
+18;Which number is the smallest;17;87;25;17;easy
+19;Which number is the largest;19;89;20;89;easy
+20;Which number is the largest;40;59;17;59;easy
+21;Which number is the largest;7;78;37;78;easy
+22;Which number is the smallest;16;36;25;16;easy
+23;Which number is prime;107;54;64;107;easy
+24;Which number is prime;5;46;20;5;easy
+25;Which number is the largest;43;64;10;64;easy
+26;Which number is the smallest;15;85;27;15;easy
+27;Which number is the largest;11;60;17;60;easy
+28;Which number is the smallest;13;44;31;13;easy
+29;Which number is prime;131;40;88;131;easy
+30;Which number is prime;2;48;10;2;easy
+31;Which number is the largest;41;83;25;83;easy
+32;Which number is the smallest;17;86;29;17;easy
+33;Which number is the smallest;14;67;37;14;easy
+34;Which is the largest country;India;England;Russia;Russia;medium
+35;Which is not a fish;Crap;Shark;Fog;Crap;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+38;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+39;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+40;Which is the largest country;Canada;China;Russia;Russia;medium
+41;Which is not a fish;Crap;Shark;Dog;Crap;medium
+42;Which is not a fish;Eel;Orca;Lion;Eel;medium
+43;Which is the largest country;Canada;Romania;Russia;Russia;medium
+44;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+45;Which is not a fish;Eel;Shark;Lion;Eel;medium
+46;Which is the largest country;India;England;Russia;Russia;medium
+47;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+50;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Which is not a fish;Crap;Shark;Fog;Crap;medium
+53;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+54;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+55;Which is the largest country;Argentina;Romania;Russia;Russia;medium
+56;Which is the largest country;France;England;Russia;Russia;medium
+57;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+58;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+59;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+60;Which is the largest country;India;Germany;Russia;Russia;medium
+61;Which is not a fish;Crap;Shark;Fog;Crap;medium
+62;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+63;Which is the largest country;France;China;Russia;Russia;medium
+64;Which is the largest country;India;South Korea;Russia;Russia;medium
+65;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+66;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;The Western Roman Empire fell in;476;305;621;476;hard
+69;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;The Western Roman Empire fell in;476;339;655;476;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;The Western Roman Empire fell in;476;222;634;476;hard
+79;The Western Roman Empire fell in;476;225;553;476;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+83;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+84;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+85;The Western Roman Empire fell in;476;288;623;476;hard
+86;The Western Roman Empire fell in;476;221;518;476;hard
+87;The Western Roman Empire fell in;476;327;624;476;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;299;705;476;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+1;Which number is the smallest;12;94;30;12;easy
+2;Which number is the smallest;19;64;34;19;easy
+3;Which number is prime;131;76;90;131;easy
+4;Which number is the smallest;11;67;40;11;easy
+5;Which number is prime;5;50;6;5;easy
+6;Which number is prime;2;6;36;2;easy
+7;Which number is the smallest;18;52;34;18;easy
+8;Which number is the largest;13;94;15;94;easy
+9;Which number is prime;17;68;18;17;easy
+10;Which number is the smallest;18;97;34;18;easy
+11;Which number is the smallest;16;90;39;16;easy
+12;Which number is prime;11;62;74;11;easy
+13;Which number is prime;5;32;28;5;easy
+14;Which number is prime;3;92;22;3;easy
+15;Which number is prime;5;48;90;5;easy
+16;Which number is the largest;57;92;31;92;easy
+17;Which number is the largest;43;62;41;62;easy
+18;Which number is prime;11;20;90;11;easy
+19;Which number is prime;131;94;30;131;easy
+20;Which number is prime;2;92;96;2;easy
+21;Which number is prime;5;8;12;5;easy
+22;Which number is prime;5;48;52;5;easy
+23;Which number is prime;17;76;82;17;easy
+24;Which number is the smallest;20;66;34;20;easy
+25;Which number is the smallest;10;58;28;10;easy
+26;Which number is the smallest;11;87;33;11;easy
+27;Which number is prime;17;98;68;17;easy
+28;Which number is the largest;57;98;18;98;easy
+29;Which number is the smallest;21;41;35;21;easy
+30;Which number is the largest;33;67;10;67;easy
+31;Which number is the largest;13;79;34;79;easy
+32;Which number is the smallest;12;41;25;12;easy
+33;Which number is the smallest;22;92;25;22;easy
+34;Which is the largest country;India;England;Russia;Russia;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Which is the largest country;France;Spain;Russia;Russia;medium
+37;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+38;Which is the largest country;Canada;Germany;Russia;Russia;medium
+39;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+42;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+43;Which is the largest country;France;China;Russia;Russia;medium
+44;Which is not a fish;Crap;Shark;Dog;Crap;medium
+45;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+46;Which is not a fish;Eel;Shark;Dog;Eel;medium
+47;Which is not a fish;Crap;Orca;Dog;Crap;medium
+48;Which is not a fish;Crap;Orca;Dog;Crap;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+51;Which is not a fish;Crap;Orca;Lion;Crap;medium
+52;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+53;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+54;Which is the largest country;India;England;Russia;Russia;medium
+55;Which is the largest country;India;South Korea;Russia;Russia;medium
+56;Which is the largest country;Canada;Germany;Russia;Russia;medium
+57;Which is the largest country;Belgium;Germany;Russia;Russia;medium
+58;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+59;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+60;Which is the largest country;Canada;England;Russia;Russia;medium
+61;Which is the largest country;Belgium;England;Russia;Russia;medium
+62;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+63;Which is the largest country;Belgium;China;Russia;Russia;medium
+64;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+65;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+66;Which is not a fish;Crap;Shark;Lion;Crap;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;The Western Roman Empire fell in;476;274;645;476;hard
+69;The Western Roman Empire fell in;476;309;553;476;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+73;The Western Roman Empire fell in;476;259;711;476;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+76;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+77;The Western Roman Empire fell in;476;294;741;476;hard
+78;The Western Roman Empire fell in;476;248;707;476;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;The Western Roman Empire fell in;476;281;525;476;hard
+81;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+82;The Western Roman Empire fell in;476;206;740;476;hard
+83;The Western Roman Empire fell in;476;309;675;476;hard
+84;The Western Roman Empire fell in;476;314;778;476;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+87;The Western Roman Empire fell in;476;327;636;476;hard
+88;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+89;The Western Roman Empire fell in;476;293;503;476;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;216;725;476;hard
+92;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+93;The Western Roman Empire fell in;476;266;737;476;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+100;The Western Roman Empire fell in;476;327;625;476;hard
+1;Which number is the largest;55;68;17;68;easy
+2;Which number is prime;17;52;32;17;easy
+3;Which number is prime;17;62;36;17;easy
+4;Which number is the largest;21;98;21;98;easy
+5;Which number is the smallest;15;69;27;15;easy
+6;Which number is the smallest;17;32;39;17;easy
+7;Which number is the largest;27;82;15;82;easy
+8;Which number is the largest;7;66;37;66;easy
+9;Which number is the smallest;23;69;41;23;easy
+10;Which number is the largest;33;79;32;79;easy
+11;Which number is prime;11;14;86;11;easy
+12;Which number is the smallest;20;52;30;20;easy
+13;Which number is prime;5;46;78;5;easy
+14;Which number is the smallest;12;69;29;12;easy
+15;Which number is prime;5;32;16;5;easy
+16;Which number is prime;131;94;8;131;easy
+17;Which number is the smallest;20;59;29;20;easy
+18;Which number is the smallest;17;84;40;17;easy
+19;Which number is the smallest;10;65;25;10;easy
+20;Which number is the smallest;23;63;34;23;easy
+21;Which number is the largest;25;97;21;97;easy
+22;Which number is prime;11;64;74;11;easy
+23;Which number is the largest;44;67;19;67;easy
+24;Which number is the smallest;15;36;25;15;easy
+25;Which number is the smallest;21;34;39;21;easy
+26;Which number is the largest;7;90;38;90;easy
+27;Which number is prime;131;60;38;131;easy
+28;Which number is prime;11;12;36;11;easy
+29;Which number is prime;5;36;24;5;easy
+30;Which number is the largest;30;60;32;60;easy
+31;Which number is the smallest;19;95;34;19;easy
+32;Which number is the smallest;11;54;30;11;easy
+33;Which number is the smallest;22;40;33;22;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is not a fish;Crap;Shark;Lion;Crap;medium
+36;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+37;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+42;Which is not a fish;Crap;Orca;Dog;Crap;medium
+43;Which is not a fish;Eel;Orca;Dog;Eel;medium
+44;Which is the largest country;France;England;Russia;Russia;medium
+45;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+49;Which is the largest country;France;Romania;Russia;Russia;medium
+50;Which is not a fish;Crap;Shark;Lion;Crap;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Which is the largest country;Canada;Romania;Russia;Russia;medium
+53;Which is the largest country;Argentina;Spain;Russia;Russia;medium
+54;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+55;Which is the largest country;India;Spain;Russia;Russia;medium
+56;Which is the largest country;France;Germany;Russia;Russia;medium
+57;Which is not a fish;Crap;Orca;Fog;Crap;medium
+58;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+59;Which is the largest country;India;England;Russia;Russia;medium
+60;Which is not a fish;Crap;Orca;Lion;Crap;medium
+61;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+62;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+63;Which is the largest country;Canada;England;Russia;Russia;medium
+64;Which is the largest country;India;China;Russia;Russia;medium
+65;Which is the largest country;Argentina;Romania;Russia;Russia;medium
+66;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+67;The Western Roman Empire fell in;476;257;545;476;hard
+68;The Western Roman Empire fell in;476;305;757;476;hard
+69;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+73;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;The Western Roman Empire fell in;476;342;721;476;hard
+76;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;The Western Roman Empire fell in;476;295;511;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+87;The Western Roman Empire fell in;476;201;507;476;hard
+88;The Western Roman Empire fell in;476;292;760;476;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;265;683;476;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;The Western Roman Empire fell in;476;288;610;476;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;The Western Roman Empire fell in;476;293;544;476;hard
+96;The Western Roman Empire fell in;476;227;598;476;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+100;The Western Roman Empire fell in;476;210;696;476;hard
+1;Which number is the largest;49;83;10;83;easy
+2;Which number is the smallest;16;80;36;16;easy
+3;Which number is prime;3;82;92;3;easy
+4;Which number is the smallest;18;51;29;18;easy
+5;Which number is the largest;38;64;35;64;easy
+6;Which number is the largest;52;67;28;67;easy
+7;Which number is the largest;29;93;29;93;easy
+8;Which number is the largest;52;77;40;77;easy
+9;Which number is the smallest;23;54;36;23;easy
+10;Which number is prime;107;48;80;107;easy
+11;Which number is prime;17;86;16;17;easy
+12;Which number is the largest;13;63;33;63;easy
+13;Which number is the largest;45;80;31;80;easy
+14;Which number is the largest;35;97;43;97;easy
+15;Which number is the smallest;11;38;32;11;easy
+16;Which number is prime;11;56;26;11;easy
+17;Which number is the largest;22;97;16;97;easy
+18;Which number is the smallest;16;90;25;16;easy
+19;Which number is prime;131;24;84;131;easy
+20;Which number is prime;107;88;94;107;easy
+21;Which number is the largest;53;81;36;81;easy
+22;Which number is the smallest;12;38;42;12;easy
+23;Which number is the smallest;20;49;42;20;easy
+24;Which number is the largest;37;85;41;85;easy
+25;Which number is prime;5;54;62;5;easy
+26;Which number is the smallest;22;81;30;22;easy
+27;Which number is the largest;7;65;17;65;easy
+28;Which number is the largest;42;94;13;94;easy
+29;Which number is the largest;44;79;10;79;easy
+30;Which number is the largest;24;81;36;81;easy
+31;Which number is the smallest;18;46;30;18;easy
+32;Which number is the largest;19;61;34;61;easy
+33;Which number is prime;3;78;30;3;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is the largest country;France;Germany;Russia;Russia;medium
+36;Which is not a fish;Crap;Orca;Fog;Crap;medium
+37;Which is the largest country;France;Germany;Russia;Russia;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is the largest country;Belgium;Spain;Russia;Russia;medium
+40;Which is the largest country;France;China;Russia;Russia;medium
+41;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+42;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+43;Which is not a fish;Eel;Shark;Fog;Eel;medium
+44;Which is the largest country;Belgium;China;Russia;Russia;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Which is the largest country;France;China;Russia;Russia;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Which is not a fish;Eel;Shark;Dog;Eel;medium
+50;Which is not a fish;Crap;Orca;Dog;Crap;medium
+51;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+52;Which is the largest country;India;Germany;Russia;Russia;medium
+53;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+54;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Which is not a fish;Crap;Shark;Fog;Crap;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Which is not a fish;Eel;Orca;Fog;Eel;medium
+59;Which is the largest country;France;Spain;Russia;Russia;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Which is not a fish;Crap;Shark;Fog;Crap;medium
+62;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+63;Which is the largest country;India;Germany;Russia;Russia;medium
+64;Which is the largest country;France;China;Russia;Russia;medium
+65;Which is not a fish;Eel;Shark;Lion;Eel;medium
+66;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;The Western Roman Empire fell in;476;315;777;476;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;The Western Roman Empire fell in;476;258;628;476;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+74;The Western Roman Empire fell in;476;281;795;476;hard
+75;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;The Western Roman Empire fell in;476;333;764;476;hard
+78;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+81;The Western Roman Empire fell in;476;330;776;476;hard
+82;The Western Roman Empire fell in;476;204;663;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+87;The Western Roman Empire fell in;476;339;644;476;hard
+88;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;The Western Roman Empire fell in;476;233;606;476;hard
+94;The Western Roman Empire fell in;476;303;666;476;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;The Western Roman Empire fell in;476;207;542;476;hard
+97;The Western Roman Empire fell in;476;288;589;476;hard
+98;The Western Roman Empire fell in;476;264;509;476;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+1;Which number is prime;11;64;8;11;easy
+2;Which number is the largest;38;77;32;77;easy
+3;Which number is prime;3;96;68;3;easy
+4;Which number is prime;5;14;70;5;easy
+5;Which number is the largest;3;97;19;97;easy
+6;Which number is the largest;50;88;35;88;easy
+7;Which number is the smallest;21;74;32;21;easy
+8;Which number is the largest;20;78;18;78;easy
+9;Which number is the largest;8;89;10;89;easy
+10;Which number is the largest;16;62;22;62;easy
+11;Which number is prime;131;94;88;131;easy
+12;Which number is the largest;46;81;19;81;easy
+13;Which number is the largest;51;68;30;68;easy
+14;Which number is prime;131;74;44;131;easy
+15;Which number is the largest;9;74;22;74;easy
+16;Which number is the largest;6;76;38;76;easy
+17;Which number is the largest;7;59;10;59;easy
+18;Which number is the smallest;21;95;27;21;easy
+19;Which number is prime;131;92;80;131;easy
+20;Which number is the largest;35;70;19;70;easy
+21;Which number is prime;107;96;82;107;easy
+22;Which number is the smallest;17;60;41;17;easy
+23;Which number is the smallest;10;87;43;10;easy
+24;Which number is prime;17;50;64;17;easy
+25;Which number is the smallest;10;46;37;10;easy
+26;Which number is prime;11;88;12;11;easy
+27;Which number is the largest;8;95;31;95;easy
+28;Which number is prime;107;98;44;107;easy
+29;Which number is the smallest;12;40;39;12;easy
+30;Which number is prime;3;56;74;3;easy
+31;Which number is prime;11;90;78;11;easy
+32;Which number is the largest;4;94;16;94;easy
+33;Which number is the smallest;21;55;43;21;easy
+34;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+35;Which is not a fish;Eel;Shark;Dog;Eel;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is the largest country;India;Germany;Russia;Russia;medium
+38;Which is the largest country;India;Germany;Russia;Russia;medium
+39;Which is not a fish;Eel;Shark;Fog;Eel;medium
+40;Which is the largest country;Argentina;China;Russia;Russia;medium
+41;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+42;Which is not a fish;Crap;Orca;Fog;Crap;medium
+43;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+44;Which is not a fish;Eel;Shark;Dog;Eel;medium
+45;Which is the largest country;Argentina;Romania;Russia;Russia;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+49;Which is not a fish;Eel;Shark;Lion;Eel;medium
+50;Which is not a fish;Eel;Orca;Fog;Eel;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Which is the largest country;Belgium;Germany;Russia;Russia;medium
+53;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+54;Which is the largest country;India;Romania;Russia;Russia;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+57;Which is not a fish;Eel;Shark;Dog;Eel;medium
+58;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+59;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+60;Which is the largest country;Portugal;China;Russia;Russia;medium
+61;Which is not a fish;Eel;Shark;Dog;Eel;medium
+62;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is the largest country;Argentina;China;Russia;Russia;medium
+65;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+66;Which is the largest country;Belgium;England;Russia;Russia;medium
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+69;The Western Roman Empire fell in;476;343;525;476;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;The Western Roman Empire fell in;476;251;651;476;hard
+76;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+77;The Western Roman Empire fell in;476;309;539;476;hard
+78;The Western Roman Empire fell in;476;319;507;476;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;The Western Roman Empire fell in;476;328;667;476;hard
+82;The Western Roman Empire fell in;476;257;791;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+87;The Western Roman Empire fell in;476;338;530;476;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;The Western Roman Empire fell in;476;211;795;476;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+92;The Western Roman Empire fell in;476;227;566;476;hard
+93;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;The Western Roman Empire fell in;476;269;725;476;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;The Western Roman Empire fell in;476;330;675;476;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;The Western Roman Empire fell in;476;282;652;476;hard
+1;Which number is the largest;38;88;43;88;easy
+2;Which number is the largest;31;96;19;96;easy
+3;Which number is the smallest;16;80;25;16;easy
+4;Which number is prime;5;30;26;5;easy
+5;Which number is prime;2;90;92;2;easy
+6;Which number is the largest;25;89;29;89;easy
+7;Which number is the largest;24;69;20;69;easy
+8;Which number is prime;3;38;38;3;easy
+9;Which number is prime;131;10;8;131;easy
+10;Which number is the largest;18;66;30;66;easy
+11;Which number is the largest;29;79;39;79;easy
+12;Which number is the largest;25;92;11;92;easy
+13;Which number is the smallest;15;45;28;15;easy
+14;Which number is prime;2;56;18;2;easy
+15;Which number is the largest;16;80;42;80;easy
+16;Which number is the smallest;15;36;31;15;easy
+17;Which number is prime;17;86;18;17;easy
+18;Which number is the largest;25;91;37;91;easy
+19;Which number is the smallest;10;82;39;10;easy
+20;Which number is the largest;49;89;36;89;easy
+21;Which number is the largest;37;77;23;77;easy
+22;Which number is the smallest;18;39;32;18;easy
+23;Which number is the smallest;18;85;36;18;easy
+24;Which number is the largest;2;58;27;58;easy
+25;Which number is prime;3;88;38;3;easy
+26;Which number is the largest;22;85;28;85;easy
+27;Which number is the largest;51;81;23;81;easy
+28;Which number is the smallest;18;79;25;18;easy
+29;Which number is the smallest;10;65;39;10;easy
+30;Which number is the smallest;12;49;31;12;easy
+31;Which number is the largest;9;79;15;79;easy
+32;Which number is the smallest;10;46;26;10;easy
+33;Which number is prime;11;28;68;11;easy
+34;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is not a fish;Crap;Shark;Fog;Crap;medium
+38;Which is not a fish;Crap;Orca;Fog;Crap;medium
+39;Which is the largest country;France;Romania;Russia;Russia;medium
+40;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+41;Which is the largest country;Portugal;Romania;Russia;Russia;medium
+42;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+43;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+44;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Which is not a fish;Eel;Orca;Dog;Eel;medium
+47;Which is the largest country;Belgium;China;Russia;Russia;medium
+48;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+49;Which is not a fish;Crap;Orca;Lion;Crap;medium
+50;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Which is the largest country;Portugal;England;Russia;Russia;medium
+53;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+54;Which is not a fish;Crap;Orca;Fog;Crap;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Which is the largest country;France;China;Russia;Russia;medium
+57;Which is the largest country;France;South Korea;Russia;Russia;medium
+58;Which is the largest country;France;South Korea;Russia;Russia;medium
+59;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Which is not a fish;Eel;Shark;Dog;Eel;medium
+63;Which is the largest country;Argentina;Romania;Russia;Russia;medium
+64;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+65;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+66;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+67;The Western Roman Empire fell in;476;214;795;476;hard
+68;The Western Roman Empire fell in;476;334;536;476;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;The Western Roman Empire fell in;476;341;526;476;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;The Western Roman Empire fell in;476;300;777;476;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;The Western Roman Empire fell in;476;207;716;476;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;The Western Roman Empire fell in;476;347;693;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;The Western Roman Empire fell in;476;327;564;476;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;The Western Roman Empire fell in;476;343;725;476;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;312;763;476;hard
+92;The Western Roman Empire fell in;476;255;504;476;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+96;The Western Roman Empire fell in;476;270;626;476;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+1;Which number is prime;131;86;82;131;easy
+2;Which number is prime;3;92;78;3;easy
+3;Which number is prime;131;86;96;131;easy
+4;Which number is prime;131;34;20;131;easy
+5;Which number is prime;17;78;82;17;easy
+6;Which number is the smallest;14;54;26;14;easy
+7;Which number is the largest;55;98;39;98;easy
+8;Which number is prime;131;22;60;131;easy
+9;Which number is prime;2;62;78;2;easy
+10;Which number is the smallest;16;78;39;16;easy
+11;Which number is the largest;7;61;20;61;easy
+12;Which number is the largest;38;80;19;80;easy
+13;Which number is prime;107;20;28;107;easy
+14;Which number is the smallest;21;77;43;21;easy
+15;Which number is prime;2;64;28;2;easy
+16;Which number is the largest;54;65;31;65;easy
+17;Which number is the largest;55;76;32;76;easy
+18;Which number is prime;2;68;4;2;easy
+19;Which number is the smallest;20;43;39;20;easy
+20;Which number is prime;3;44;72;3;easy
+21;Which number is the largest;50;90;41;90;easy
+22;Which number is prime;3;52;42;3;easy
+23;Which number is the smallest;22;60;39;22;easy
+24;Which number is the smallest;22;68;25;22;easy
+25;Which number is the largest;48;98;22;98;easy
+26;Which number is the largest;19;69;41;69;easy
+27;Which number is the smallest;12;45;33;12;easy
+28;Which number is the smallest;22;67;39;22;easy
+29;Which number is the largest;35;60;30;60;easy
+30;Which number is prime;17;94;12;17;easy
+31;Which number is the smallest;16;68;35;16;easy
+32;Which number is prime;5;12;80;5;easy
+33;Which number is the smallest;11;80;37;11;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is the largest country;India;China;Russia;Russia;medium
+36;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+37;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+38;Which is the largest country;Belgium;England;Russia;Russia;medium
+39;Which is the largest country;Belgium;England;Russia;Russia;medium
+40;Which is the largest country;Belgium;Spain;Russia;Russia;medium
+41;Which is not a fish;Crap;Orca;Lion;Crap;medium
+42;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+43;Which is the largest country;Canada;Spain;Russia;Russia;medium
+44;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+48;Which is the largest country;India;Spain;Russia;Russia;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Which is not a fish;Eel;Orca;Lion;Eel;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+53;Which is not a fish;Eel;Orca;Fog;Eel;medium
+54;Which is not a fish;Crap;Shark;Fog;Crap;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+57;Which is not a fish;Crap;Orca;Lion;Crap;medium
+58;Which is the largest country;India;England;Russia;Russia;medium
+59;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+60;Which is not a fish;Crap;Shark;Lion;Crap;medium
+61;Which is not a fish;Eel;Shark;Dog;Eel;medium
+62;Which is not a fish;Eel;Shark;Lion;Eel;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is not a fish;Eel;Shark;Lion;Eel;medium
+65;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+66;Which is not a fish;Eel;Shark;Fog;Eel;medium
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+69;The Western Roman Empire fell in;476;241;520;476;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;The Western Roman Empire fell in;476;250;520;476;hard
+72;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+73;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;The Western Roman Empire fell in;476;242;500;476;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;The Western Roman Empire fell in;476;211;786;476;hard
+79;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+80;The Western Roman Empire fell in;476;211;562;476;hard
+81;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+82;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+83;The Western Roman Empire fell in;476;336;667;476;hard
+84;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+85;The Western Roman Empire fell in;476;224;706;476;hard
+86;The Western Roman Empire fell in;476;254;586;476;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;350;701;476;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;The Western Roman Empire fell in;476;218;645;476;hard
+95;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;The Western Roman Empire fell in;476;339;518;476;hard
+100;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+1;Which number is the smallest;20;63;27;20;easy
+2;Which number is prime;17;86;64;17;easy
+3;Which number is the largest;1;76;14;76;easy
+4;Which number is the smallest;17;91;33;17;easy
+5;Which number is the largest;54;94;36;94;easy
+6;Which number is the smallest;10;65;32;10;easy
+7;Which number is the smallest;19;98;29;19;easy
+8;Which number is the smallest;13;31;30;13;easy
+9;Which number is prime;3;64;32;3;easy
+10;Which number is prime;2;4;90;2;easy
+11;Which number is prime;5;46;68;5;easy
+12;Which number is the smallest;19;52;26;19;easy
+13;Which number is the smallest;22;54;39;22;easy
+14;Which number is the smallest;11;68;26;11;easy
+15;Which number is the smallest;19;68;39;19;easy
+16;Which number is the largest;21;92;41;92;easy
+17;Which number is the largest;3;82;40;82;easy
+18;Which number is the largest;36;85;15;85;easy
+19;Which number is the largest;22;67;39;67;easy
+20;Which number is the largest;10;84;39;84;easy
+21;Which number is prime;5;26;38;5;easy
+22;Which number is the largest;56;80;40;80;easy
+23;Which number is the smallest;11;95;42;11;easy
+24;Which number is the largest;51;86;33;86;easy
+25;Which number is the smallest;12;65;36;12;easy
+26;Which number is the smallest;17;48;32;17;easy
+27;Which number is prime;107;92;46;107;easy
+28;Which number is the largest;56;82;37;82;easy
+29;Which number is the largest;16;97;18;97;easy
+30;Which number is the smallest;12;45;38;12;easy
+31;Which number is prime;2;4;10;2;easy
+32;Which number is prime;2;22;52;2;easy
+33;Which number is the smallest;19;81;43;19;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is the largest country;Canada;Spain;Russia;Russia;medium
+38;Which is the largest country;Portugal;Romania;Russia;Russia;medium
+39;Which is the largest country;France;Romania;Russia;Russia;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Which is not a fish;Crap;Orca;Dog;Crap;medium
+42;Which is not a fish;Eel;Shark;Fog;Eel;medium
+43;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+44;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+45;Which is the largest country;Canada;Romania;Russia;Russia;medium
+46;Which is not a fish;Eel;Orca;Lion;Eel;medium
+47;Which is not a fish;Eel;Shark;Dog;Eel;medium
+48;Which is not a fish;Crap;Orca;Fog;Crap;medium
+49;Which is not a fish;Crap;Orca;Lion;Crap;medium
+50;Which is the largest country;Belgium;China;Russia;Russia;medium
+51;Which is the largest country;Canada;Germany;Russia;Russia;medium
+52;Which is the largest country;Argentina;Germany;Russia;Russia;medium
+53;Which is not a fish;Crap;Shark;Dog;Crap;medium
+54;Which is the largest country;France;Romania;Russia;Russia;medium
+55;Which is not a fish;Eel;Orca;Dog;Eel;medium
+56;Which is not a fish;Crap;Orca;Lion;Crap;medium
+57;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+58;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+59;Which is not a fish;Eel;Orca;Fog;Eel;medium
+60;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+61;Which is the largest country;India;China;Russia;Russia;medium
+62;Which is not a fish;Eel;Shark;Lion;Eel;medium
+63;Which is not a fish;Crap;Orca;Fog;Crap;medium
+64;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+65;Which is the largest country;India;South Korea;Russia;Russia;medium
+66;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+69;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+74;The Western Roman Empire fell in;476;255;724;476;hard
+75;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+76;The Western Roman Empire fell in;476;304;623;476;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+81;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+82;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+83;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+84;The Western Roman Empire fell in;476;206;747;476;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+87;The Western Roman Empire fell in;476;230;594;476;hard
+88;The Western Roman Empire fell in;476;261;618;476;hard
+89;The Western Roman Empire fell in;476;248;532;476;hard
+90;The Western Roman Empire fell in;476;276;690;476;hard
+91;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+92;The Western Roman Empire fell in;476;336;729;476;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;The Western Roman Empire fell in;476;221;520;476;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+1;Which number is the smallest;11;58;25;11;easy
+2;Which number is the smallest;17;65;41;17;easy
+3;Which number is the largest;29;66;25;66;easy
+4;Which number is the smallest;11;66;37;11;easy
+5;Which number is prime;3;4;44;3;easy
+6;Which number is the largest;11;86;21;86;easy
+7;Which number is the smallest;20;92;28;20;easy
+8;Which number is the largest;42;72;24;72;easy
+9;Which number is prime;3;90;22;3;easy
+10;Which number is the smallest;16;45;36;16;easy
+11;Which number is the smallest;18;36;37;18;easy
+12;Which number is prime;3;36;16;3;easy
+13;Which number is the smallest;14;72;34;14;easy
+14;Which number is the largest;7;89;20;89;easy
+15;Which number is the smallest;16;58;26;16;easy
+16;Which number is the smallest;12;82;35;12;easy
+17;Which number is the largest;50;96;38;96;easy
+18;Which number is the smallest;23;71;36;23;easy
+19;Which number is prime;3;84;92;3;easy
+20;Which number is the smallest;20;72;26;20;easy
+21;Which number is the largest;41;69;27;69;easy
+22;Which number is the smallest;16;70;38;16;easy
+23;Which number is the largest;54;81;37;81;easy
+24;Which number is the smallest;16;86;27;16;easy
+25;Which number is the largest;24;67;21;67;easy
+26;Which number is prime;5;54;38;5;easy
+27;Which number is prime;107;44;94;107;easy
+28;Which number is the smallest;10;93;29;10;easy
+29;Which number is the smallest;17;32;41;17;easy
+30;Which number is prime;11;12;30;11;easy
+31;Which number is the smallest;21;45;39;21;easy
+32;Which number is the smallest;21;91;39;21;easy
+33;Which number is the largest;54;83;37;83;easy
+34;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is the largest country;India;South Korea;Russia;Russia;medium
+38;Which is the largest country;Canada;China;Russia;Russia;medium
+39;Which is the largest country;India;China;Russia;Russia;medium
+40;Which is the largest country;Belgium;China;Russia;Russia;medium
+41;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+42;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+43;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+44;Which is not a fish;Eel;Shark;Fog;Eel;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+51;Which is the largest country;France;England;Russia;Russia;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Which is the largest country;India;England;Russia;Russia;medium
+54;Which is the largest country;Canada;Spain;Russia;Russia;medium
+55;Which is not a fish;Crap;Orca;Dog;Crap;medium
+56;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Which is the largest country;Canada;Germany;Russia;Russia;medium
+59;Which is not a fish;Eel;Shark;Lion;Eel;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Which is not a fish;Eel;Orca;Dog;Eel;medium
+62;Which is not a fish;Eel;Shark;Lion;Eel;medium
+63;Which is the largest country;Portugal;England;Russia;Russia;medium
+64;Which is not a fish;Eel;Orca;Fog;Eel;medium
+65;Which is the largest country;France;Spain;Russia;Russia;medium
+66;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;The Western Roman Empire fell in;476;208;523;476;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;The Western Roman Empire fell in;476;230;730;476;hard
+71;The Western Roman Empire fell in;476;227;619;476;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+76;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+77;The Western Roman Empire fell in;476;256;772;476;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;The Western Roman Empire fell in;476;257;631;476;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+82;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+83;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;The Western Roman Empire fell in;476;278;730;476;hard
+86;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+87;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+88;The Western Roman Empire fell in;476;322;583;476;hard
+89;The Western Roman Empire fell in;476;330;515;476;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+92;The Western Roman Empire fell in;476;249;652;476;hard
+93;The Western Roman Empire fell in;476;337;678;476;hard
+94;The Western Roman Empire fell in;476;264;694;476;hard
+95;The Western Roman Empire fell in;476;247;654;476;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+100;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+1;Which number is prime;3;38;48;3;easy
+2;Which number is prime;3;70;50;3;easy
+3;Which number is prime;107;98;82;107;easy
+4;Which number is the smallest;21;82;27;21;easy
+5;Which number is the largest;34;78;40;78;easy
+6;Which number is the smallest;21;65;42;21;easy
+7;Which number is prime;11;72;68;11;easy
+8;Which number is the smallest;17;36;40;17;easy
+9;Which number is prime;17;74;36;17;easy
+10;Which number is prime;3;30;58;3;easy
+11;Which number is the smallest;15;64;42;15;easy
+12;Which number is prime;107;40;96;107;easy
+13;Which number is the largest;26;89;10;89;easy
+14;Which number is the largest;26;59;13;59;easy
+15;Which number is the smallest;11;80;25;11;easy
+16;Which number is the smallest;19;77;36;19;easy
+17;Which number is the smallest;19;45;30;19;easy
+18;Which number is the smallest;14;72;43;14;easy
+19;Which number is prime;17;60;74;17;easy
+20;Which number is the largest;30;93;41;93;easy
+21;Which number is prime;17;20;30;17;easy
+22;Which number is the smallest;11;35;37;11;easy
+23;Which number is prime;11;24;26;11;easy
+24;Which number is prime;107;38;96;107;easy
+25;Which number is prime;3;8;18;3;easy
+26;Which number is prime;107;82;6;107;easy
+27;Which number is the smallest;22;36;32;22;easy
+28;Which number is the smallest;13;78;30;13;easy
+29;Which number is the smallest;15;56;31;15;easy
+30;Which number is the smallest;20;51;32;20;easy
+31;Which number is the largest;34;94;35;94;easy
+32;Which number is the smallest;14;44;35;14;easy
+33;Which number is the largest;7;85;14;85;easy
+34;Which is the largest country;Belgium;China;Russia;Russia;medium
+35;Which is the largest country;Canada;China;Russia;Russia;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is not a fish;Crap;Shark;Fog;Crap;medium
+40;Which is the largest country;Canada;China;Russia;Russia;medium
+41;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+42;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+43;Which is not a fish;Eel;Shark;Lion;Eel;medium
+44;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+45;Which is not a fish;Eel;Orca;Lion;Eel;medium
+46;Which is the largest country;Canada;Spain;Russia;Russia;medium
+47;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Which is the largest country;Belgium;Germany;Russia;Russia;medium
+51;Which is the largest country;France;China;Russia;Russia;medium
+52;Which is not a fish;Crap;Shark;Fog;Crap;medium
+53;Which is not a fish;Crap;Shark;Fog;Crap;medium
+54;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+55;Which is the largest country;Belgium;China;Russia;Russia;medium
+56;Which is not a fish;Eel;Shark;Dog;Eel;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Which is not a fish;Eel;Shark;Dog;Eel;medium
+59;Which is not a fish;Crap;Shark;Dog;Crap;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Which is not a fish;Crap;Shark;Fog;Crap;medium
+63;Which is the largest country;Portugal;China;Russia;Russia;medium
+64;Which is the largest country;France;Spain;Russia;Russia;medium
+65;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+66;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+72;The Western Roman Empire fell in;476;267;626;476;hard
+73;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+74;The Western Roman Empire fell in;476;230;751;476;hard
+75;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+76;The Western Roman Empire fell in;476;291;514;476;hard
+77;The Western Roman Empire fell in;476;349;774;476;hard
+78;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;The Western Roman Empire fell in;476;243;729;476;hard
+81;The Western Roman Empire fell in;476;332;506;476;hard
+82;The Western Roman Empire fell in;476;276;567;476;hard
+83;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;The Western Roman Empire fell in;476;255;637;476;hard
+86;The Western Roman Empire fell in;476;305;739;476;hard
+87;The Western Roman Empire fell in;476;234;733;476;hard
+88;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;288;697;476;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+1;Which number is the largest;9;67;33;67;easy
+2;Which number is the largest;13;61;23;61;easy
+3;Which number is the smallest;20;55;25;20;easy
+4;Which number is the largest;2;81;11;81;easy
+5;Which number is the largest;9;77;16;77;easy
+6;Which number is the smallest;13;56;33;13;easy
+7;Which number is the largest;23;90;20;90;easy
+8;Which number is the largest;3;66;26;66;easy
+9;Which number is the smallest;21;63;26;21;easy
+10;Which number is the smallest;15;82;31;15;easy
+11;Which number is the largest;51;60;14;60;easy
+12;Which number is prime;3;46;66;3;easy
+13;Which number is the largest;36;95;12;95;easy
+14;Which number is the largest;5;62;10;62;easy
+15;Which number is the smallest;20;68;31;20;easy
+16;Which number is the largest;12;75;38;75;easy
+17;Which number is the smallest;16;74;40;16;easy
+18;Which number is the largest;31;85;25;85;easy
+19;Which number is the largest;36;85;20;85;easy
+20;Which number is the largest;18;94;21;94;easy
+21;Which number is the largest;31;67;30;67;easy
+22;Which number is the smallest;15;45;29;15;easy
+23;Which number is the smallest;12;52;33;12;easy
+24;Which number is prime;131;44;62;131;easy
+25;Which number is the smallest;18;64;42;18;easy
+26;Which number is the smallest;23;37;26;23;easy
+27;Which number is the largest;57;95;28;95;easy
+28;Which number is the smallest;10;87;25;10;easy
+29;Which number is the smallest;10;66;31;10;easy
+30;Which number is prime;3;8;8;3;easy
+31;Which number is the largest;13;58;26;58;easy
+32;Which number is prime;11;62;40;11;easy
+33;Which number is the largest;22;74;25;74;easy
+34;Which is the largest country;India;Germany;Russia;Russia;medium
+35;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is the largest country;Portugal;Romania;Russia;Russia;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Which is the largest country;Belgium;Germany;Russia;Russia;medium
+42;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+43;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+44;Which is the largest country;Portugal;Germany;Russia;Russia;medium
+45;Which is the largest country;Belgium;England;Russia;Russia;medium
+46;Which is not a fish;Eel;Shark;Dog;Eel;medium
+47;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+48;Which is the largest country;Argentina;China;Russia;Russia;medium
+49;Which is the largest country;India;England;Russia;Russia;medium
+50;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+51;Which is the largest country;Argentina;Spain;Russia;Russia;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+54;Which is the largest country;France;England;Russia;Russia;medium
+55;Which is the largest country;Argentina;England;Russia;Russia;medium
+56;Which is not a fish;Eel;Orca;Lion;Eel;medium
+57;Which is not a fish;Crap;Orca;Dog;Crap;medium
+58;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+59;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+60;Which is not a fish;Crap;Orca;Fog;Crap;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Which is not a fish;Eel;Orca;Lion;Eel;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is the largest country;Belgium;China;Russia;Russia;medium
+65;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+66;Which is not a fish;Eel;Shark;Fog;Eel;medium
+67;The Western Roman Empire fell in;476;350;528;476;hard
+68;The Western Roman Empire fell in;476;218;520;476;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+72;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+73;The Western Roman Empire fell in;476;239;745;476;hard
+74;The Western Roman Empire fell in;476;326;786;476;hard
+75;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;The Western Roman Empire fell in;476;255;703;476;hard
+78;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+79;The Western Roman Empire fell in;476;258;558;476;hard
+80;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+81;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+82;The Western Roman Empire fell in;476;278;680;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;The Western Roman Empire fell in;476;216;759;476;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;The Western Roman Empire fell in;476;322;634;476;hard
+90;The Western Roman Empire fell in;476;210;654;476;hard
+91;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;The Western Roman Empire fell in;476;276;744;476;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;The Western Roman Empire fell in;476;224;761;476;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+100;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+1;Which number is prime;107;22;16;107;easy
+2;Which number is prime;17;74;42;17;easy
+3;Which number is the largest;2;76;21;76;easy
+4;Which number is the smallest;11;63;27;11;easy
+5;Which number is prime;5;90;14;5;easy
+6;Which number is the largest;52;64;11;64;easy
+7;Which number is the smallest;22;44;43;22;easy
+8;Which number is prime;11;78;90;11;easy
+9;Which number is the largest;56;81;13;81;easy
+10;Which number is prime;3;44;68;3;easy
+11;Which number is the smallest;16;32;37;16;easy
+12;Which number is the smallest;10;75;35;10;easy
+13;Which number is the largest;30;85;31;85;easy
+14;Which number is the smallest;13;77;42;13;easy
+15;Which number is prime;107;66;18;107;easy
+16;Which number is prime;17;92;46;17;easy
+17;Which number is prime;3;42;66;3;easy
+18;Which number is the largest;46;81;31;81;easy
+19;Which number is the largest;10;62;27;62;easy
+20;Which number is the largest;11;91;13;91;easy
+21;Which number is the largest;52;67;40;67;easy
+22;Which number is the smallest;20;61;42;20;easy
+23;Which number is the smallest;19;94;36;19;easy
+24;Which number is the smallest;13;80;35;13;easy
+25;Which number is the smallest;11;41;28;11;easy
+26;Which number is the largest;35;82;31;82;easy
+27;Which number is the smallest;17;93;35;17;easy
+28;Which number is the smallest;23;79;38;23;easy
+29;Which number is the smallest;17;81;37;17;easy
+30;Which number is prime;2;62;14;2;easy
+31;Which number is the largest;26;68;40;68;easy
+32;Which number is the largest;12;62;33;62;easy
+33;Which number is the largest;45;84;25;84;easy
+34;Which is the largest country;France;Spain;Russia;Russia;medium
+35;Which is not a fish;Eel;Orca;Fog;Eel;medium
+36;Which is not a fish;Crap;Shark;Fog;Crap;medium
+37;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+40;Which is the largest country;Canada;Germany;Russia;Russia;medium
+41;Which is not a fish;Eel;Orca;Lion;Eel;medium
+42;Which is the largest country;France;Romania;Russia;Russia;medium
+43;Which is the largest country;France;England;Russia;Russia;medium
+44;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Which is not a fish;Crap;Orca;Fog;Crap;medium
+47;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+48;Which is not a fish;Eel;Orca;Fog;Eel;medium
+49;Which is the largest country;India;South Korea;Russia;Russia;medium
+50;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+51;Which is the largest country;Belgium;China;Russia;Russia;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Which is not a fish;Eel;Orca;Lion;Eel;medium
+54;Which is not a fish;Eel;Orca;Fog;Eel;medium
+55;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+56;Which is the largest country;Argentina;Germany;Russia;Russia;medium
+57;Which is not a fish;Crap;Shark;Fog;Crap;medium
+58;Which is not a fish;Crap;Orca;Lion;Crap;medium
+59;Which is not a fish;Crap;Orca;Lion;Crap;medium
+60;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+61;Which is the largest country;India;Romania;Russia;Russia;medium
+62;Which is not a fish;Eel;Shark;Lion;Eel;medium
+63;Which is not a fish;Eel;Orca;Dog;Eel;medium
+64;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+65;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+66;Which is not a fish;Crap;Shark;Dog;Crap;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+69;The Western Roman Empire fell in;476;314;706;476;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;The Western Roman Empire fell in;476;271;632;476;hard
+73;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+76;The Western Roman Empire fell in;476;249;580;476;hard
+77;The Western Roman Empire fell in;476;279;725;476;hard
+78;The Western Roman Empire fell in;476;345;593;476;hard
+79;The Western Roman Empire fell in;476;257;643;476;hard
+80;The Western Roman Empire fell in;476;317;693;476;hard
+81;The Western Roman Empire fell in;476;312;702;476;hard
+82;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+83;The Western Roman Empire fell in;476;307;714;476;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+89;The Western Roman Empire fell in;476;344;739;476;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;226;701;476;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;The Western Roman Empire fell in;476;275;668;476;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;The Western Roman Empire fell in;476;271;767;476;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;The Western Roman Empire fell in;476;259;798;476;hard
+100;The Western Roman Empire fell in;476;249;633;476;hard
+1;Which number is the largest;52;90;31;90;easy
+2;Which number is the smallest;11;41;43;11;easy
+3;Which number is the smallest;19;41;37;19;easy
+4;Which number is the largest;30;74;30;74;easy
+5;Which number is prime;17;72;58;17;easy
+6;Which number is the largest;13;93;10;93;easy
+7;Which number is the largest;32;81;12;81;easy
+8;Which number is the smallest;11;94;33;11;easy
+9;Which number is the largest;20;84;15;84;easy
+10;Which number is the largest;23;86;37;86;easy
+11;Which number is prime;2;72;84;2;easy
+12;Which number is prime;2;50;14;2;easy
+13;Which number is the largest;49;60;37;60;easy
+14;Which number is prime;2;76;76;2;easy
+15;Which number is the largest;3;81;19;81;easy
+16;Which number is prime;5;80;48;5;easy
+17;Which number is prime;107;40;20;107;easy
+18;Which number is the largest;23;81;27;81;easy
+19;Which number is the smallest;10;95;25;10;easy
+20;Which number is prime;3;40;28;3;easy
+21;Which number is prime;3;56;40;3;easy
+22;Which number is the smallest;11;77;40;11;easy
+23;Which number is prime;11;54;60;11;easy
+24;Which number is the smallest;10;38;33;10;easy
+25;Which number is the smallest;18;48;40;18;easy
+26;Which number is the smallest;21;96;35;21;easy
+27;Which number is the smallest;21;72;31;21;easy
+28;Which number is the smallest;13;51;33;13;easy
+29;Which number is prime;3;18;32;3;easy
+30;Which number is the largest;57;85;39;85;easy
+31;Which number is prime;131;82;70;131;easy
+32;Which number is the largest;49;97;24;97;easy
+33;Which number is the smallest;15;56;26;15;easy
+34;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+35;Which is the largest country;France;Spain;Russia;Russia;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is the largest country;France;South Korea;Russia;Russia;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+40;Which is not a fish;Eel;Orca;Lion;Eel;medium
+41;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+42;Which is the largest country;Belgium;England;Russia;Russia;medium
+43;Which is the largest country;France;China;Russia;Russia;medium
+44;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+45;Which is not a fish;Eel;Orca;Lion;Eel;medium
+46;Which is the largest country;France;China;Russia;Russia;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is the largest country;Argentina;China;Russia;Russia;medium
+49;Which is not a fish;Crap;Shark;Dog;Crap;medium
+50;Which is the largest country;France;China;Russia;Russia;medium
+51;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+54;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Which is not a fish;Crap;Orca;Dog;Crap;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Which is the largest country;France;Romania;Russia;Russia;medium
+59;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+60;Which is not a fish;Crap;Orca;Lion;Crap;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is not a fish;Crap;Shark;Fog;Crap;medium
+65;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+66;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;The Western Roman Empire fell in;476;285;529;476;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;The Western Roman Empire fell in;476;302;674;476;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;The Western Roman Empire fell in;476;241;652;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;The Western Roman Empire fell in;476;275;567;476;hard
+85;The Western Roman Empire fell in;476;306;623;476;hard
+86;The Western Roman Empire fell in;476;281;631;476;hard
+87;The Western Roman Empire fell in;476;227;709;476;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;The Western Roman Empire fell in;476;270;637;476;hard
+92;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+93;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;The Western Roman Empire fell in;476;257;700;476;hard
+99;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+100;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+1;Which number is prime;11;74;38;11;easy
+2;Which number is prime;107;68;14;107;easy
+3;Which number is the largest;47;63;29;63;easy
+4;Which number is the smallest;23;49;34;23;easy
+5;Which number is the smallest;11;36;29;11;easy
+6;Which number is prime;3;20;36;3;easy
+7;Which number is the smallest;11;80;31;11;easy
+8;Which number is prime;3;34;76;3;easy
+9;Which number is the largest;35;58;25;58;easy
+10;Which number is the largest;29;72;37;72;easy
+11;Which number is prime;3;20;62;3;easy
+12;Which number is the largest;19;79;41;79;easy
+13;Which number is the smallest;17;87;37;17;easy
+14;Which number is prime;17;6;74;17;easy
+15;Which number is the largest;39;95;20;95;easy
+16;Which number is prime;107;74;12;107;easy
+17;Which number is the largest;52;85;36;85;easy
+18;Which number is prime;2;90;12;2;easy
+19;Which number is the largest;23;89;14;89;easy
+20;Which number is the smallest;13;36;36;13;easy
+21;Which number is the smallest;17;73;28;17;easy
+22;Which number is prime;131;22;18;131;easy
+23;Which number is the largest;25;75;43;75;easy
+24;Which number is the smallest;14;34;31;14;easy
+25;Which number is prime;131;56;4;131;easy
+26;Which number is the largest;6;89;35;89;easy
+27;Which number is the largest;34;93;36;93;easy
+28;Which number is the largest;50;76;17;76;easy
+29;Which number is the smallest;19;84;36;19;easy
+30;Which number is prime;3;12;6;3;easy
+31;Which number is prime;107;22;66;107;easy
+32;Which number is prime;17;10;92;17;easy
+33;Which number is the smallest;10;34;38;10;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Which is not a fish;Crap;Orca;Fog;Crap;medium
+37;Which is not a fish;Eel;Orca;Fog;Eel;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+40;Which is not a fish;Eel;Shark;Fog;Eel;medium
+41;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+42;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+43;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+44;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+45;Which is not a fish;Eel;Shark;Fog;Eel;medium
+46;Which is not a fish;Crap;Orca;Lion;Crap;medium
+47;Which is the largest country;Belgium;Spain;Russia;Russia;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Which is the largest country;Argentina;England;Russia;Russia;medium
+50;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+51;Which is not a fish;Eel;Shark;Fog;Eel;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+54;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Which is the largest country;Portugal;Romania;Russia;Russia;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Which is not a fish;Eel;Shark;Dog;Eel;medium
+59;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+60;Which is not a fish;Eel;Shark;Dog;Eel;medium
+61;Which is not a fish;Crap;Orca;Dog;Crap;medium
+62;Which is the largest country;Argentina;England;Russia;Russia;medium
+63;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+64;Which is the largest country;Argentina;England;Russia;Russia;medium
+65;Which is not a fish;Crap;Shark;Fog;Crap;medium
+66;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;The Western Roman Empire fell in;476;277;510;476;hard
+71;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;The Western Roman Empire fell in;476;316;643;476;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;The Western Roman Empire fell in;476;247;629;476;hard
+76;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+77;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+78;The Western Roman Empire fell in;476;284;724;476;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;The Western Roman Empire fell in;476;203;664;476;hard
+82;The Western Roman Empire fell in;476;210;630;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+85;The Western Roman Empire fell in;476;210;644;476;hard
+86;The Western Roman Empire fell in;476;344;653;476;hard
+87;The Western Roman Empire fell in;476;240;558;476;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;The Western Roman Empire fell in;476;321;649;476;hard
+91;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+100;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+1;Which number is the smallest;16;65;36;16;easy
+2;Which number is the smallest;14;80;42;14;easy
+3;Which number is the smallest;21;83;25;21;easy
+4;Which number is prime;107;66;82;107;easy
+5;Which number is prime;3;6;72;3;easy
+6;Which number is the largest;14;94;16;94;easy
+7;Which number is prime;2;4;50;2;easy
+8;Which number is prime;2;94;28;2;easy
+9;Which number is the largest;11;98;21;98;easy
+10;Which number is the largest;35;84;40;84;easy
+11;Which number is the smallest;14;37;42;14;easy
+12;Which number is the largest;21;72;33;72;easy
+13;Which number is the smallest;13;94;36;13;easy
+14;Which number is prime;11;10;80;11;easy
+15;Which number is the smallest;11;61;38;11;easy
+16;Which number is the largest;52;82;29;82;easy
+17;Which number is the smallest;22;39;28;22;easy
+18;Which number is the smallest;10;92;35;10;easy
+19;Which number is the largest;19;67;21;67;easy
+20;Which number is the smallest;16;67;37;16;easy
+21;Which number is the smallest;19;82;30;19;easy
+22;Which number is the smallest;23;84;28;23;easy
+23;Which number is prime;107;64;42;107;easy
+24;Which number is the largest;8;82;35;82;easy
+25;Which number is the smallest;15;78;37;15;easy
+26;Which number is prime;3;48;40;3;easy
+27;Which number is the largest;48;75;17;75;easy
+28;Which number is the smallest;17;62;39;17;easy
+29;Which number is the smallest;16;81;38;16;easy
+30;Which number is the largest;18;80;12;80;easy
+31;Which number is the smallest;20;85;42;20;easy
+32;Which number is the smallest;23;48;38;23;easy
+33;Which number is prime;107;86;8;107;easy
+34;Which is not a fish;Crap;Shark;Fog;Crap;medium
+35;Which is not a fish;Eel;Shark;Fog;Eel;medium
+36;Which is not a fish;Crap;Orca;Lion;Crap;medium
+37;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is the largest country;France;Romania;Russia;Russia;medium
+40;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+41;Which is the largest country;India;England;Russia;Russia;medium
+42;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+43;Which is not a fish;Crap;Orca;Lion;Crap;medium
+44;Which is not a fish;Eel;Shark;Dog;Eel;medium
+45;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is the largest country;India;South Korea;Russia;Russia;medium
+49;Which is not a fish;Eel;Orca;Lion;Eel;medium
+50;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+51;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Which is not a fish;Eel;Shark;Dog;Eel;medium
+54;Which is not a fish;Eel;Orca;Fog;Eel;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Which is the largest country;Portugal;Romania;Russia;Russia;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Which is the largest country;Portugal;England;Russia;Russia;medium
+59;Which is the largest country;Canada;Romania;Russia;Russia;medium
+60;Which is the largest country;Canada;Spain;Russia;Russia;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+63;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+64;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+65;Which is not a fish;Eel;Orca;Fog;Eel;medium
+66;Which is the largest country;Belgium;China;Russia;Russia;medium
+67;The Western Roman Empire fell in;476;288;778;476;hard
+68;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;The Western Roman Empire fell in;476;223;514;476;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+73;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+76;The Western Roman Empire fell in;476;327;556;476;hard
+77;The Western Roman Empire fell in;476;280;511;476;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;The Western Roman Empire fell in;476;344;793;476;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;The Western Roman Empire fell in;476;324;669;476;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;The Western Roman Empire fell in;476;250;588;476;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;The Western Roman Empire fell in;476;268;573;476;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;The Western Roman Empire fell in;476;258;796;476;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;The Western Roman Empire fell in;476;209;729;476;hard
+100;The Western Roman Empire fell in;476;273;769;476;hard
+1;Which number is the largest;11;67;34;67;easy
+2;Which number is prime;2;26;30;2;easy
+3;Which number is the largest;49;83;33;83;easy
+4;Which number is the largest;11;87;40;87;easy
+5;Which number is prime;3;58;96;3;easy
+6;Which number is prime;11;52;82;11;easy
+7;Which number is the largest;23;61;25;61;easy
+8;Which number is prime;2;6;6;2;easy
+9;Which number is the largest;32;90;28;90;easy
+10;Which number is the largest;19;85;37;85;easy
+11;Which number is prime;131;34;22;131;easy
+12;Which number is prime;3;12;36;3;easy
+13;Which number is the largest;47;65;38;65;easy
+14;Which number is the largest;8;96;39;96;easy
+15;Which number is prime;2;84;96;2;easy
+16;Which number is prime;107;10;28;107;easy
+17;Which number is the smallest;13;74;42;13;easy
+18;Which number is the largest;51;74;27;74;easy
+19;Which number is the largest;5;80;26;80;easy
+20;Which number is prime;131;20;78;131;easy
+21;Which number is prime;17;48;88;17;easy
+22;Which number is prime;3;78;10;3;easy
+23;Which number is the largest;10;83;35;83;easy
+24;Which number is the smallest;17;88;38;17;easy
+25;Which number is prime;131;4;52;131;easy
+26;Which number is prime;107;14;66;107;easy
+27;Which number is the largest;8;90;41;90;easy
+28;Which number is the largest;31;95;30;95;easy
+29;Which number is the smallest;22;80;39;22;easy
+30;Which number is the smallest;17;57;42;17;easy
+31;Which number is prime;2;22;52;2;easy
+32;Which number is prime;107;78;50;107;easy
+33;Which number is the largest;43;68;14;68;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+36;Which is not a fish;Eel;Orca;Lion;Eel;medium
+37;Which is the largest country;India;Germany;Russia;Russia;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is not a fish;Crap;Orca;Dog;Crap;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+42;Which is the largest country;France;Spain;Russia;Russia;medium
+43;Which is not a fish;Eel;Orca;Dog;Eel;medium
+44;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+45;Which is the largest country;France;England;Russia;Russia;medium
+46;Which is not a fish;Eel;Orca;Dog;Eel;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Which is the largest country;Argentina;England;Russia;Russia;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Which is the largest country;Argentina;Spain;Russia;Russia;medium
+53;Which is the largest country;Canada;China;Russia;Russia;medium
+54;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Which is the largest country;India;England;Russia;Russia;medium
+57;Which is the largest country;Canada;Spain;Russia;Russia;medium
+58;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+59;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Which is not a fish;Eel;Orca;Dog;Eel;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is the largest country;India;Romania;Russia;Russia;medium
+65;Which is the largest country;Portugal;England;Russia;Russia;medium
+66;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+67;The Western Roman Empire fell in;476;323;706;476;hard
+68;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+71;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+72;The Western Roman Empire fell in;476;220;683;476;hard
+73;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;The Western Roman Empire fell in;476;238;513;476;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+79;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+80;The Western Roman Empire fell in;476;247;506;476;hard
+81;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+82;The Western Roman Empire fell in;476;285;637;476;hard
+83;The Western Roman Empire fell in;476;325;510;476;hard
+84;The Western Roman Empire fell in;476;341;518;476;hard
+85;The Western Roman Empire fell in;476;265;665;476;hard
+86;The Western Roman Empire fell in;476;209;768;476;hard
+87;The Western Roman Empire fell in;476;347;628;476;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;The Western Roman Empire fell in;476;331;700;476;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+92;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+93;The Western Roman Empire fell in;476;279;574;476;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+96;The Western Roman Empire fell in;476;294;604;476;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;The Western Roman Empire fell in;476;328;738;476;hard
+99;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+100;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+1;Which number is prime;2;78;54;2;easy
+2;Which number is the largest;25;59;38;59;easy
+3;Which number is prime;131;44;64;131;easy
+4;Which number is prime;2;78;66;2;easy
+5;Which number is prime;3;60;48;3;easy
+6;Which number is prime;107;62;52;107;easy
+7;Which number is the largest;7;79;18;79;easy
+8;Which number is prime;11;28;68;11;easy
+9;Which number is the largest;34;72;35;72;easy
+10;Which number is the smallest;19;95;41;19;easy
+11;Which number is the smallest;20;89;31;20;easy
+12;Which number is prime;5;4;14;5;easy
+13;Which number is the largest;21;75;23;75;easy
+14;Which number is the smallest;14;44;29;14;easy
+15;Which number is the smallest;10;55;34;10;easy
+16;Which number is prime;11;72;48;11;easy
+17;Which number is the largest;18;62;11;62;easy
+18;Which number is prime;2;94;80;2;easy
+19;Which number is prime;5;18;30;5;easy
+20;Which number is prime;5;50;48;5;easy
+21;Which number is prime;11;40;50;11;easy
+22;Which number is prime;131;96;86;131;easy
+23;Which number is prime;11;58;24;11;easy
+24;Which number is prime;3;80;84;3;easy
+25;Which number is the largest;17;88;15;88;easy
+26;Which number is the smallest;17;69;27;17;easy
+27;Which number is prime;131;34;26;131;easy
+28;Which number is the smallest;15;67;41;15;easy
+29;Which number is the smallest;22;49;41;22;easy
+30;Which number is the smallest;10;69;28;10;easy
+31;Which number is the largest;54;59;42;59;easy
+32;Which number is prime;5;62;8;5;easy
+33;Which number is the smallest;23;98;37;23;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is the largest country;Belgium;England;Russia;Russia;medium
+36;Which is the largest country;India;South Korea;Russia;Russia;medium
+37;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is the largest country;France;Spain;Russia;Russia;medium
+40;Which is not a fish;Eel;Orca;Dog;Eel;medium
+41;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+42;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+43;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+44;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Which is the largest country;France;England;Russia;Russia;medium
+47;Which is not a fish;Crap;Orca;Dog;Crap;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Which is not a fish;Crap;Shark;Fog;Crap;medium
+50;Which is the largest country;Belgium;Germany;Russia;Russia;medium
+51;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+52;Which is not a fish;Eel;Orca;Dog;Eel;medium
+53;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+54;Which is the largest country;India;Germany;Russia;Russia;medium
+55;Which is the largest country;India;England;Russia;Russia;medium
+56;Which is not a fish;Crap;Orca;Dog;Crap;medium
+57;Which is not a fish;Eel;Orca;Dog;Eel;medium
+58;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+59;Which is not a fish;Eel;Orca;Fog;Eel;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+62;Which is not a fish;Crap;Orca;Dog;Crap;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is the largest country;Canada;Spain;Russia;Russia;medium
+65;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+66;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;The Western Roman Empire fell in;476;250;640;476;hard
+69;The Western Roman Empire fell in;476;347;684;476;hard
+70;The Western Roman Empire fell in;476;236;650;476;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;The Western Roman Empire fell in;476;211;630;476;hard
+73;The Western Roman Empire fell in;476;338;555;476;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;The Western Roman Empire fell in;476;237;549;476;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+80;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+81;The Western Roman Empire fell in;476;240;501;476;hard
+82;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+83;The Western Roman Empire fell in;476;276;550;476;hard
+84;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;The Western Roman Empire fell in;476;344;526;476;hard
+87;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+88;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;The Western Roman Empire fell in;476;317;506;476;hard
+91;The Western Roman Empire fell in;476;334;800;476;hard
+92;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;The Western Roman Empire fell in;476;237;594;476;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;The Western Roman Empire fell in;476;232;701;476;hard
+100;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+1;Which number is the largest;43;70;28;70;easy
+2;Which number is the smallest;13;52;43;13;easy
+3;Which number is the smallest;10;55;30;10;easy
+4;Which number is the smallest;18;52;32;18;easy
+5;Which number is prime;131;80;64;131;easy
+6;Which number is the largest;52;75;10;75;easy
+7;Which number is the largest;1;77;20;77;easy
+8;Which number is the smallest;15;79;33;15;easy
+9;Which number is prime;17;8;80;17;easy
+10;Which number is the largest;34;71;12;71;easy
+11;Which number is prime;11;80;88;11;easy
+12;Which number is the smallest;16;76;36;16;easy
+13;Which number is the largest;11;86;25;86;easy
+14;Which number is the smallest;10;68;39;10;easy
+15;Which number is prime;3;74;92;3;easy
+16;Which number is the smallest;19;77;36;19;easy
+17;Which number is the largest;20;75;36;75;easy
+18;Which number is the smallest;11;72;35;11;easy
+19;Which number is prime;107;22;38;107;easy
+20;Which number is the smallest;16;85;32;16;easy
+21;Which number is the smallest;15;55;33;15;easy
+22;Which number is the smallest;19;31;37;19;easy
+23;Which number is the smallest;16;41;28;16;easy
+24;Which number is the smallest;22;40;29;22;easy
+25;Which number is the largest;57;69;39;69;easy
+26;Which number is the largest;53;64;40;64;easy
+27;Which number is prime;5;22;4;5;easy
+28;Which number is prime;107;34;32;107;easy
+29;Which number is prime;107;52;56;107;easy
+30;Which number is the largest;20;73;41;73;easy
+31;Which number is the smallest;13;77;35;13;easy
+32;Which number is the smallest;20;70;41;20;easy
+33;Which number is the smallest;15;44;27;15;easy
+34;Which is the largest country;France;China;Russia;Russia;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+37;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+38;Which is not a fish;Eel;Orca;Fog;Eel;medium
+39;Which is the largest country;Belgium;South Korea;Russia;Russia;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+42;Which is not a fish;Crap;Orca;Fog;Crap;medium
+43;Which is the largest country;Belgium;Germany;Russia;Russia;medium
+44;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+45;Which is the largest country;India;South Korea;Russia;Russia;medium
+46;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+47;Which is not a fish;Crap;Orca;Lion;Crap;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Which is the largest country;Argentina;Germany;Russia;Russia;medium
+51;Which is not a fish;Eel;Orca;Fog;Eel;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Which is the largest country;Argentina;Romania;Russia;Russia;medium
+54;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+55;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+56;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+59;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Which is the largest country;France;South Korea;Russia;Russia;medium
+62;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+63;Which is not a fish;Eel;Orca;Dog;Eel;medium
+64;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+65;Which is the largest country;Canada;Germany;Russia;Russia;medium
+66;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;The Western Roman Empire fell in;476;322;542;476;hard
+69;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;The Western Roman Empire fell in;476;275;731;476;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;The Western Roman Empire fell in;476;313;757;476;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;The Western Roman Empire fell in;476;223;697;476;hard
+78;The Western Roman Empire fell in;476;271;606;476;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;The Western Roman Empire fell in;476;220;645;476;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+87;The Western Roman Empire fell in;476;348;754;476;hard
+88;The Western Roman Empire fell in;476;332;653;476;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;The Western Roman Empire fell in;476;340;774;476;hard
+91;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+92;The Western Roman Empire fell in;476;343;667;476;hard
+93;The Western Roman Empire fell in;476;259;580;476;hard
+94;The Western Roman Empire fell in;476;303;793;476;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;The Western Roman Empire fell in;476;305;680;476;hard
+98;The Western Roman Empire fell in;476;321;501;476;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+1;Which number is the largest;22;84;40;84;easy
+2;Which number is the largest;11;90;16;90;easy
+3;Which number is the smallest;12;98;29;12;easy
+4;Which number is the largest;3;89;23;89;easy
+5;Which number is prime;2;72;46;2;easy
+6;Which number is the largest;40;60;19;60;easy
+7;Which number is the largest;9;81;28;81;easy
+8;Which number is the largest;55;84;38;84;easy
+9;Which number is prime;2;34;94;2;easy
+10;Which number is prime;131;78;56;131;easy
+11;Which number is the largest;15;94;41;94;easy
+12;Which number is the largest;50;77;29;77;easy
+13;Which number is the largest;9;64;38;64;easy
+14;Which number is prime;17;84;64;17;easy
+15;Which number is the smallest;10;94;27;10;easy
+16;Which number is the smallest;13;31;37;13;easy
+17;Which number is the largest;25;83;42;83;easy
+18;Which number is prime;107;64;50;107;easy
+19;Which number is the smallest;13;45;42;13;easy
+20;Which number is the largest;33;72;41;72;easy
+21;Which number is the smallest;16;82;31;16;easy
+22;Which number is the largest;9;83;23;83;easy
+23;Which number is prime;11;54;64;11;easy
+24;Which number is the smallest;10;52;25;10;easy
+25;Which number is the largest;27;90;15;90;easy
+26;Which number is the largest;43;66;36;66;easy
+27;Which number is the smallest;18;68;35;18;easy
+28;Which number is the largest;57;84;22;84;easy
+29;Which number is prime;17;42;86;17;easy
+30;Which number is the largest;54;75;10;75;easy
+31;Which number is the smallest;15;81;41;15;easy
+32;Which number is prime;17;4;10;17;easy
+33;Which number is prime;2;18;96;2;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is the largest country;Belgium;China;Russia;Russia;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+42;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+43;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+44;Which is not a fish;Crap;Shark;Fog;Crap;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Which is not a fish;Crap;Orca;Dog;Crap;medium
+47;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+48;Which is the largest country;India;Germany;Russia;Russia;medium
+49;Which is not a fish;Crap;Shark;Lion;Crap;medium
+50;Which is not a fish;Crap;Orca;Lion;Crap;medium
+51;Which is not a fish;Crap;Orca;Dog;Crap;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Which is the largest country;Portugal;Romania;Russia;Russia;medium
+54;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+55;Which is not a fish;Eel;Shark;Lion;Eel;medium
+56;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+57;Which is not a fish;Eel;Orca;Lion;Eel;medium
+58;Which is not a fish;Eel;Orca;Dog;Eel;medium
+59;Which is not a fish;Eel;Orca;Dog;Eel;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Which is the largest country;Portugal;China;Russia;Russia;medium
+62;Which is the largest country;Canada;Romania;Russia;Russia;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is not a fish;Crap;Shark;Fog;Crap;medium
+65;Which is not a fish;Eel;Shark;Lion;Eel;medium
+66;Which is the largest country;Argentina;South Korea;Russia;Russia;medium
+67;The Western Roman Empire fell in;476;209;633;476;hard
+68;The Western Roman Empire fell in;476;240;559;476;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;The Western Roman Empire fell in;476;323;637;476;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;The Western Roman Empire fell in;476;222;598;476;hard
+73;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;The Western Roman Empire fell in;476;203;743;476;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;The Western Roman Empire fell in;476;227;674;476;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+82;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+83;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;The Western Roman Empire fell in;476;210;612;476;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+92;The Western Roman Empire fell in;476;246;505;476;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;The Western Roman Empire fell in;476;202;502;476;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;The Western Roman Empire fell in;476;263;656;476;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;The Western Roman Empire fell in;476;290;616;476;hard
+1;Which number is the smallest;22;50;25;22;easy
+2;Which number is prime;3;32;80;3;easy
+3;Which number is the largest;30;79;13;79;easy
+4;Which number is the smallest;12;38;25;12;easy
+5;Which number is the largest;51;79;34;79;easy
+6;Which number is the largest;55;97;25;97;easy
+7;Which number is the smallest;11;32;36;11;easy
+8;Which number is the smallest;17;34;42;17;easy
+9;Which number is the largest;16;87;11;87;easy
+10;Which number is the smallest;16;59;32;16;easy
+11;Which number is the smallest;22;34;33;22;easy
+12;Which number is the smallest;21;53;39;21;easy
+13;Which number is prime;3;94;50;3;easy
+14;Which number is the smallest;14;85;27;14;easy
+15;Which number is the largest;27;75;28;75;easy
+16;Which number is the largest;17;78;13;78;easy
+17;Which number is the smallest;20;73;31;20;easy
+18;Which number is the largest;44;70;38;70;easy
+19;Which number is the smallest;12;62;43;12;easy
+20;Which number is the largest;30;77;38;77;easy
+21;Which number is prime;107;66;26;107;easy
+22;Which number is the largest;32;89;11;89;easy
+23;Which number is the largest;2;68;22;68;easy
+24;Which number is the largest;3;78;39;78;easy
+25;Which number is the smallest;17;67;25;17;easy
+26;Which number is the largest;4;72;23;72;easy
+27;Which number is prime;3;30;44;3;easy
+28;Which number is prime;2;26;34;2;easy
+29;Which number is prime;2;40;98;2;easy
+30;Which number is the smallest;21;51;34;21;easy
+31;Which number is the smallest;12;77;35;12;easy
+32;Which number is the smallest;13;35;31;13;easy
+33;Which number is prime;17;74;38;17;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Which is the largest country;Belgium;China;Russia;Russia;medium
+38;Which is not a fish;Crap;Shark;Lion;Crap;medium
+39;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+40;Which is not a fish;Eel;Shark;Fog;Eel;medium
+41;Which is the largest country;India;England;Russia;Russia;medium
+42;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+43;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+44;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+45;Which is the largest country;France;Germany;Russia;Russia;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Which is the largest country;Argentina;England;Russia;Russia;medium
+48;Which is not a fish;Crap;Orca;Fog;Crap;medium
+49;Which is the largest country;Canada;England;Russia;Russia;medium
+50;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+51;Which is not a fish;Crap;Shark;Lion;Crap;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Which is the largest country;Portugal;Germany;Russia;Russia;medium
+54;Which is the largest country;France;South Korea;Russia;Russia;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+57;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+58;Which is the largest country;India;Germany;Russia;Russia;medium
+59;Which is the largest country;France;Romania;Russia;Russia;medium
+60;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Which is not a fish;Crap;Shark;Fog;Crap;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+65;Which is the largest country;Canada;Spain;Russia;Russia;medium
+66;Which is not a fish;Eel;Orca;Lion;Eel;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;The Western Roman Empire fell in;476;320;713;476;hard
+69;The Western Roman Empire fell in;476;311;746;476;hard
+70;The Western Roman Empire fell in;476;224;635;476;hard
+71;The Western Roman Empire fell in;476;223;594;476;hard
+72;The Western Roman Empire fell in;476;338;661;476;hard
+73;The Western Roman Empire fell in;476;296;516;476;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;The Western Roman Empire fell in;476;227;505;476;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+83;The Western Roman Empire fell in;476;243;707;476;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;The Western Roman Empire fell in;476;231;569;476;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;The Western Roman Empire fell in;476;347;524;476;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;The Western Roman Empire fell in;476;298;558;476;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;The Western Roman Empire fell in;476;257;543;476;hard
+99;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+100;The Western Roman Empire fell in;476;280;756;476;hard
+1;Which number is the smallest;20;54;29;20;easy
+2;Which number is prime;5;24;94;5;easy
+3;Which number is the smallest;22;82;37;22;easy
+4;Which number is the largest;4;73;40;73;easy
+5;Which number is the smallest;14;37;42;14;easy
+6;Which number is the largest;37;95;33;95;easy
+7;Which number is the largest;14;87;26;87;easy
+8;Which number is prime;107;24;28;107;easy
+9;Which number is prime;3;94;76;3;easy
+10;Which number is the smallest;14;68;38;14;easy
+11;Which number is the largest;13;77;20;77;easy
+12;Which number is the largest;47;97;38;97;easy
+13;Which number is the largest;5;97;21;97;easy
+14;Which number is the smallest;20;72;34;20;easy
+15;Which number is the largest;45;82;21;82;easy
+16;Which number is the smallest;23;75;33;23;easy
+17;Which number is prime;17;6;14;17;easy
+18;Which number is the largest;6;80;17;80;easy
+19;Which number is prime;11;62;84;11;easy
+20;Which number is prime;107;36;70;107;easy
+21;Which number is the largest;13;98;16;98;easy
+22;Which number is prime;3;62;68;3;easy
+23;Which number is the largest;44;89;11;89;easy
+24;Which number is prime;5;76;86;5;easy
+25;Which number is prime;5;52;72;5;easy
+26;Which number is the largest;55;58;11;58;easy
+27;Which number is the largest;4;63;35;63;easy
+28;Which number is the largest;38;74;22;74;easy
+29;Which number is the largest;35;81;26;81;easy
+30;Which number is the smallest;15;86;29;15;easy
+31;Which number is the smallest;17;56;42;17;easy
+32;Which number is prime;2;30;72;2;easy
+33;Which number is prime;2;28;4;2;easy
+34;Which is not a fish;Crap;Orca;Dog;Crap;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+38;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+39;Which is not a fish;Eel;Shark;Fog;Eel;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+42;Which is the largest country;Belgium;Germany;Russia;Russia;medium
+43;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+44;Which is the largest country;France;Germany;Russia;Russia;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Which is the largest country;India;Germany;Russia;Russia;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is not a fish;Eel;Shark;Dog;Eel;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Which is the largest country;India;South Korea;Russia;Russia;medium
+51;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+52;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+53;Which is the largest country;France;China;Russia;Russia;medium
+54;Which is the largest country;France;Germany;Russia;Russia;medium
+55;Which is not a fish;Eel;Shark;Dog;Eel;medium
+56;Which is the largest country;Argentina;Germany;Russia;Russia;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+59;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+60;Which is not a fish;Eel;Shark;Dog;Eel;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+65;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+66;Which is the largest country;Argentina;Romania;Russia;Russia;medium
+67;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+68;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+69;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+70;The Western Roman Empire fell in;476;302;573;476;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;The Western Roman Empire fell in;476;303;570;476;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+78;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;The Western Roman Empire fell in;476;219;719;476;hard
+82;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+87;The Western Roman Empire fell in;476;236;690;476;hard
+88;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+89;The Western Roman Empire fell in;476;236;633;476;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;The Western Roman Empire fell in;476;310;662;476;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;The Western Roman Empire fell in;476;312;694;476;hard
+1;Which number is the largest;2;64;41;64;easy
+2;Which number is the smallest;17;35;35;17;easy
+3;Which number is prime;5;92;86;5;easy
+4;Which number is the largest;43;80;37;80;easy
+5;Which number is prime;131;68;88;131;easy
+6;Which number is the smallest;16;78;42;16;easy
+7;Which number is the smallest;16;46;43;16;easy
+8;Which number is the largest;20;70;18;70;easy
+9;Which number is the largest;47;81;37;81;easy
+10;Which number is the largest;49;95;33;95;easy
+11;Which number is the smallest;13;72;39;13;easy
+12;Which number is prime;11;68;92;11;easy
+13;Which number is prime;5;24;78;5;easy
+14;Which number is prime;107;72;76;107;easy
+15;Which number is prime;3;56;98;3;easy
+16;Which number is prime;131;56;84;131;easy
+17;Which number is the largest;25;90;12;90;easy
+18;Which number is the largest;46;96;18;96;easy
+19;Which number is the largest;52;97;26;97;easy
+20;Which number is the smallest;23;63;37;23;easy
+21;Which number is the smallest;14;72;33;14;easy
+22;Which number is the largest;7;63;37;63;easy
+23;Which number is the smallest;15;48;25;15;easy
+24;Which number is the largest;30;98;25;98;easy
+25;Which number is prime;2;50;96;2;easy
+26;Which number is the largest;23;96;13;96;easy
+27;Which number is the largest;41;97;11;97;easy
+28;Which number is the smallest;17;62;36;17;easy
+29;Which number is the largest;4;71;37;71;easy
+30;Which number is the smallest;21;58;25;21;easy
+31;Which number is the largest;46;94;14;94;easy
+32;Which number is the largest;30;67;25;67;easy
+33;Which number is prime;11;82;90;11;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Which is not a fish;Eel;Orca;Lion;Eel;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+38;Which is the largest country;Belgium;China;Russia;Russia;medium
+39;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+40;Which is the largest country;Argentina;China;Russia;Russia;medium
+41;Which is not a fish;Eel;Orca;Lion;Eel;medium
+42;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+43;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+44;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is not a fish;Eel;Shark;Dog;Eel;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Which is the largest country;Portugal;Spain;Russia;Russia;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+53;Which is the largest country;India;England;Russia;Russia;medium
+54;Which is not a fish;Crap;Orca;Dog;Crap;medium
+55;Which is not a fish;Eel;Orca;Dog;Eel;medium
+56;Which is the largest country;India;England;Russia;Russia;medium
+57;Which is the largest country;Portugal;China;Russia;Russia;medium
+58;Which is the largest country;France;Spain;Russia;Russia;medium
+59;Which is not a fish;Eel;Shark;Fog;Eel;medium
+60;Which is the largest country;Belgium;Spain;Russia;Russia;medium
+61;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+62;Which is the largest country;France;Romania;Russia;Russia;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is the largest country;Portugal;China;Russia;Russia;medium
+65;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+66;Which is the largest country;Belgium;England;Russia;Russia;medium
+67;The Western Roman Empire fell in;476;320;556;476;hard
+68;The Western Roman Empire fell in;476;239;748;476;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;The Western Roman Empire fell in;476;250;572;476;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+73;The Western Roman Empire fell in;476;214;541;476;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;The Western Roman Empire fell in;476;200;568;476;hard
+78;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+79;The Western Roman Empire fell in;476;253;668;476;hard
+80;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+81;The Western Roman Empire fell in;476;297;668;476;hard
+82;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+83;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+84;The Western Roman Empire fell in;476;201;685;476;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+87;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+88;The Western Roman Empire fell in;476;293;774;476;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;209;667;476;hard
+92;The Western Roman Empire fell in;476;308;645;476;hard
+93;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+94;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+95;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;The Western Roman Empire fell in;476;333;553;476;hard
+100;The Western Roman Empire fell in;476;270;546;476;hard
+1;Which number is prime;11;80;90;11;easy
+2;Which number is the smallest;11;45;36;11;easy
+3;Which number is the smallest;11;71;34;11;easy
+4;Which number is the smallest;13;49;30;13;easy
+5;Which number is prime;131;62;20;131;easy
+6;Which number is the smallest;13;98;26;13;easy
+7;Which number is prime;5;62;46;5;easy
+8;Which number is the smallest;12;64;33;12;easy
+9;Which number is the largest;40;77;22;77;easy
+10;Which number is prime;2;66;38;2;easy
+11;Which number is the smallest;20;73;38;20;easy
+12;Which number is prime;5;80;16;5;easy
+13;Which number is prime;17;72;6;17;easy
+14;Which number is the smallest;10;89;43;10;easy
+15;Which number is the largest;48;73;13;73;easy
+16;Which number is the largest;13;84;39;84;easy
+17;Which number is the smallest;13;92;29;13;easy
+18;Which number is the largest;24;85;14;85;easy
+19;Which number is the largest;40;93;27;93;easy
+20;Which number is the largest;34;67;33;67;easy
+21;Which number is prime;131;4;4;131;easy
+22;Which number is the largest;20;74;24;74;easy
+23;Which number is the largest;6;98;39;98;easy
+24;Which number is the smallest;16;33;35;16;easy
+25;Which number is prime;2;96;52;2;easy
+26;Which number is the largest;35;82;42;82;easy
+27;Which number is the smallest;16;96;30;16;easy
+28;Which number is the smallest;20;96;43;20;easy
+29;Which number is the smallest;15;43;25;15;easy
+30;Which number is prime;5;76;62;5;easy
+31;Which number is prime;5;36;68;5;easy
+32;Which number is the smallest;22;52;27;22;easy
+33;Which number is the largest;6;70;18;70;easy
+34;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+35;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+36;Which is the largest country;India;Romania;Russia;Russia;medium
+37;Which is the largest country;Canada;Germany;Russia;Russia;medium
+38;Which is the largest country;France;Germany;Russia;Russia;medium
+39;Which is the largest country;Belgium;Romania;Russia;Russia;medium
+40;Which is not a fish;Eel;Leopard;Dog;Eel;medium
+41;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+42;Which is not a fish;Crap;Shark;Dog;Crap;medium
+43;Which is not a fish;Eel;Orca;Lion;Eel;medium
+44;Which is not a fish;Eel;Shark;Dog;Eel;medium
+45;Which is not a fish;Eel;Orca;Fog;Eel;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Which is not a fish;Eel;Shark;Fog;Eel;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Which is the largest country;Portugal;Romania;Russia;Russia;medium
+50;Which is not a fish;Crap;Shark;Fog;Crap;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Which is the largest country;India;England;Russia;Russia;medium
+53;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+54;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Which is not a fish;Eel;Orca;Dog;Eel;medium
+57;Which is not a fish;Eel;Shark;Lion;Eel;medium
+58;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+59;Which is not a fish;Crap;Shark;Fog;Crap;medium
+60;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+61;Which is the largest country;Canada;Spain;Russia;Russia;medium
+62;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+63;Which is the largest country;India;Germany;Russia;Russia;medium
+64;Which is not a fish;Crap;Orca;Lion;Crap;medium
+65;Which is the largest country;Portugal;China;Russia;Russia;medium
+66;Which is not a fish;Eel;Orca;Dog;Eel;medium
+67;The Western Roman Empire fell in;476;278;552;476;hard
+68;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+69;The Western Roman Empire fell in;476;217;576;476;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;The Western Roman Empire fell in;476;249;574;476;hard
+73;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+78;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+79;The Western Roman Empire fell in;476;302;650;476;hard
+80;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+81;The Western Roman Empire fell in;476;248;660;476;hard
+82;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;The Western Roman Empire fell in;476;219;516;476;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+87;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+88;The Western Roman Empire fell in;476;345;670;476;hard
+89;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+92;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+93;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+96;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;The Western Roman Empire fell in;476;342;797;476;hard
+100;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+1;Which number is the largest;14;80;43;80;easy
+2;Which number is the smallest;19;42;43;19;easy
+3;Which number is the largest;51;94;30;94;easy
+4;Which number is prime;2;46;14;2;easy
+5;Which number is the largest;46;58;25;58;easy
+6;Which number is the smallest;15;41;36;15;easy
+7;Which number is prime;131;72;82;131;easy
+8;Which number is prime;11;94;8;11;easy
+9;Which number is the smallest;12;62;35;12;easy
+10;Which number is the largest;55;63;37;63;easy
+11;Which number is the largest;41;65;12;65;easy
+12;Which number is prime;5;48;70;5;easy
+13;Which number is prime;5;22;72;5;easy
+14;Which number is the largest;41;63;22;63;easy
+15;Which number is prime;3;78;50;3;easy
+16;Which number is prime;17;32;78;17;easy
+17;Which number is prime;3;78;44;3;easy
+18;Which number is the smallest;22;84;41;22;easy
+19;Which number is the smallest;20;57;32;20;easy
+20;Which number is prime;131;92;70;131;easy
+21;Which number is prime;11;22;38;11;easy
+22;Which number is the largest;31;72;14;72;easy
+23;Which number is the smallest;21;57;28;21;easy
+24;Which number is the smallest;13;39;29;13;easy
+25;Which number is prime;107;94;98;107;easy
+26;Which number is the largest;30;59;40;59;easy
+27;Which number is the largest;1;59;23;59;easy
+28;Which number is the smallest;12;33;28;12;easy
+29;Which number is the largest;55;69;13;69;easy
+30;Which number is the largest;32;64;16;64;easy
+31;Which number is prime;131;78;72;131;easy
+32;Which number is prime;107;96;4;107;easy
+33;Which number is the smallest;14;66;42;14;easy
+34;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+35;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+36;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+37;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+38;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+39;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+40;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+41;Which is the largest country;Canada;England;Russia;Russia;medium
+42;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+43;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+44;Which is the largest country;Canada;South Korea;Russia;Russia;medium
+45;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+49;Which is the largest country;Argentina;England;Russia;Russia;medium
+50;Which is not a fish;Eel;Orca;Lion;Eel;medium
+51;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+52;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+53;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+54;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+55;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+56;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+57;Which is the largest country;India;Spain;Russia;Russia;medium
+58;Which is not a fish;Eel;Orca;Lion;Eel;medium
+59;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+60;Which is the largest country;Belgium;Germany;Russia;Russia;medium
+61;Which is not a fish;Crap;Orca;Fog;Crap;medium
+62;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+63;Which is not a fish;Eel;Shark;Lion;Eel;medium
+64;Which is not a fish;Crap;Orca;Lion;Crap;medium
+65;Which is the largest country;India;China;Russia;Russia;medium
+66;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+67;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+68;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+69;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+72;The Western Roman Empire fell in;476;239;512;476;hard
+73;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+74;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+75;The Western Roman Empire fell in;476;266;647;476;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+78;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+81;The Western Roman Empire fell in;476;226;784;476;hard
+82;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+83;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+84;The Western Roman Empire fell in;476;277;695;476;hard
+85;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+86;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+87;The Western Roman Empire fell in;476;264;594;476;hard
+88;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+91;The Western Roman Empire fell in;476;346;783;476;hard
+92;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+93;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+94;The Western Roman Empire fell in;476;298;595;476;hard
+95;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+96;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+97;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+98;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;The Western Roman Empire fell in;476;234;667;476;hard
+1;Which number is the largest;28;87;35;87;easy
+2;Which number is the smallest;11;94;30;11;easy
+3;Which number is the largest;37;62;32;62;easy
+4;Which number is the largest;35;90;14;90;easy
+5;Which number is the smallest;16;41;34;16;easy
+6;Which number is the largest;18;79;21;79;easy
+7;Which number is the smallest;13;50;37;13;easy
+8;Which number is prime;3;18;50;3;easy
+9;Which number is prime;2;58;44;2;easy
+10;Which number is the largest;7;87;26;87;easy
+11;Which number is the smallest;21;75;40;21;easy
+12;Which number is prime;5;98;40;5;easy
+13;Which number is prime;107;64;98;107;easy
+14;Which number is the smallest;14;81;28;14;easy
+15;Which number is prime;107;82;76;107;easy
+16;Which number is the largest;9;91;41;91;easy
+17;Which number is the largest;14;79;19;79;easy
+18;Which number is the smallest;23;70;34;23;easy
+19;Which number is the smallest;18;93;39;18;easy
+20;Which number is prime;11;70;6;11;easy
+21;Which number is prime;17;12;74;17;easy
+22;Which number is the largest;34;61;24;61;easy
+23;Which number is prime;2;18;26;2;easy
+24;Which number is the largest;29;89;12;89;easy
+25;Which number is the largest;25;58;29;58;easy
+26;Which number is the largest;43;76;21;76;easy
+27;Which number is the largest;37;81;37;81;easy
+28;Which number is prime;131;76;20;131;easy
+29;Which number is the largest;35;60;10;60;easy
+30;Which number is the largest;38;67;10;67;easy
+31;Which number is the smallest;14;64;30;14;easy
+32;Which number is the smallest;11;98;38;11;easy
+33;Which number is the smallest;10;41;42;10;easy
+34;Which is not a fish;Eel;Leopard;Fog;Eel;medium
+35;Which is not a fish;Eel;Shark;Dog;Eel;medium
+36;Which is the largest country;India;England;Russia;Russia;medium
+37;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+38;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+39;Which is not a fish;Eel;Orca;Lion;Eel;medium
+40;Which is not a fish;Eel;Shark;Dog;Eel;medium
+41;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+42;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+43;Which is the largest country;Belgium;Spain;Russia;Russia;medium
+44;Which is the largest country;Portugal;South Korea;Russia;Russia;medium
+45;Which is the largest country;Argentina;Spain;Russia;Russia;medium
+46;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+47;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+48;Which is not a fish;Crap;Shark;Lion;Crap;medium
+49;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+50;Which is not a fish;Crap;Leopard;Dog;Crap;medium
+51;Which is not a fish;Crap;Orca;Fog;Crap;medium
+52;Which is the largest country;India;Germany;Russia;Russia;medium
+53;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+54;Which is not a fish;Crap;Leopard;Fog;Crap;medium
+55;Which is the largest country;France;China;Russia;Russia;medium
+56;Which is not a fish;Eel;Shark;Lion;Eel;medium
+57;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+58;Which is the largest country;Canada;Spain;Russia;Russia;medium
+59;Which is not a fish;Crap;Leopard;Lion;Crap;medium
+60;Which is the largest country;France;England;Russia;Russia;medium
+61;Which is the largest country;Canada;England;Russia;Russia;medium
+62;Which is not a fish;Crap;Shark;Fog;Crap;medium
+63;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+64;Which is not a fish;Eel;Leopard;Lion;Eel;medium
+65;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+66;Which is the largest country;France;Germany;Russia;Russia;medium
+67;The Western Roman Empire fell in;476;245;666;476;hard
+68;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+69;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+70;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+71;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+72;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+73;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+74;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+75;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+76;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+77;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+78;The Western Roman Empire fell in;476;318;661;476;hard
+79;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+80;The Western Roman Empire fell in;476;268;572;476;hard
+81;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+82;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+83;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+84;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+85;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+86;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+87;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+88;The Western Roman Empire fell in;476;231;572;476;hard
+89;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+90;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+91;The Western Roman Empire fell in;476;319;680;476;hard
+92;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+93;The Western Roman Empire fell in;476;209;631;476;hard
+94;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+95;The Western Roman Empire fell in;476;345;651;476;hard
+96;The Western Roman Empire fell in;476;319;591;476;hard
+97;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+98;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+99;Name El Cid's horse;Alex;Berny;Babieca;Babieca;hard
+100;The Western Roman Empire fell in;476;332;558;476;hard
