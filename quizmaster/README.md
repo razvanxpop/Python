@@ -1,6 +1,6 @@
-# QuizMaster 2000: Python Quiz Creation and Solving
+# QuizMaster: Python Quiz Creation and Solving
 
-QuizMaster 2000 is a Python project designed for quiz creation and solving. The application features a command-line interface that supports functionalities such as quiz creation, question addition, and interactive quiz-solving.
+QuizMaster is a Python project designed for quiz creation and solving. The application features a command-line interface that supports functionalities such as quiz creation, question addition, and interactive quiz-solving.
 
 ## Key Features
 
