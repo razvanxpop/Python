@@ -33,5 +33,5 @@ QuizMaster is a Python project designed for quiz creation and solving. The appli
 
 - **Tests:** Includes comprehensive tests to validate the functionality of key components, promoting code reliability.
 
-This QuizMaster 2000 project demonstrates proficiency in Python programming, file handling, and the implementation of a layered architecture. The user-friendly interface and robust functionalities make it an engaging tool for quiz enthusiasts and learners alike.
+This QuizMaster project demonstrates proficiency in Python programming, file handling, and the implementation of a layered architecture. The user-friendly interface and robust functionalities make it an engaging tool for quiz enthusiasts and learners alike.
 
